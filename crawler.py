@@ -27,9 +27,13 @@ class Crawler:
         soup = BeautifulSoup(html, 'html.parser')
 
         # get the plain latex
-        latex = soup.find('div', class_="highlight").text
+        latex_doc = soup.find('div', class_="highlight").text
 
-        self._save_latex(latex, filename)
+        # get the category info
+        category = soup.find('div', class_='tag-list').select('ul:nth-of-type(2)')[0].select('a')
+        print(category)
+
+        self._save_latex(latex_doc, filename)
 
     def block_test(self):
         crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/city/', 'city')
