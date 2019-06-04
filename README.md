@@ -17,7 +17,7 @@ This is a page for a specific tag.
 ## Issues
 1. As you can see in [data/log.txt](data/log.txt), there are some issues finding the correct *.sty files, 
  this is because of a lack of dependencies. I used MacTex to compile all the files and most of these
- really well. I think this is not the only issue with my compiler, as you can see in the following photo, 
+ really well. I think this issue not only with my compiler, as you can see in the following photo, 
  these latex files won't compile at overleaf platform as well.
   ![index.html](images/overleaf-compile-error.png)
   
