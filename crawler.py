@@ -2,8 +2,16 @@ import urllib.request
 from bs4 import BeautifulSoup
 import ssl
 
+# TODO
+# 1. funciton self._save_tags
 class Crawler:
-    def _crawl_html(self, uri):
+    def __init__(self, uri):
+        self.uri = uri
+
+    def crawl_html(self, uri=None):
+        if uri == None:
+            uri = self.uri
+
         # Ignore SSL certificate errors
         ctx = ssl.create_default_context()
         ctx.check_hostname = False
@@ -17,25 +25,32 @@ class Crawler:
         with open('data/{0}.latex'.format(filename), 'w') as out:
             out.write(latex_doc)
 
+    def _save_tags(self, tags, filename):
+        pass
+
     # this functions crawls a single page LaTex file.
     # uri: the uri of the page that contains latex
     # filename: the name of the file to be saved
-    def crawl_single_page_latex(self, uri, filename):
+    # if not specified, it is extracted from the uri
+    def crawl_single_page_latex(self, uri, filename=None):
         # beautiful soup
-        html = self._crawl_html(uri)
+        html = self.crawl_html(uri)
 
         soup = BeautifulSoup(html, 'html.parser')
 
         # get the plain latex
         latex_doc = soup.find('div', class_="highlight").text
 
-        # get the category info
-        category = soup.find('div', class_='tag-list').select('ul:nth-of-type(2)')[0].select('a')
-        print(category)
-
-        # insert comment part
+        # get the category tags
+        lis = soup.find('div', class_='tag-list').find_all('li')
+        tags = list()
+        for li in lis:
+            li.span.decompose()
+            tags.append(li.text)
+        # print(tags)
 
         self._save_latex(latex_doc, filename)
+        self._save_tags()
 
     def block_test(self):
         # crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/city/', 'city')
