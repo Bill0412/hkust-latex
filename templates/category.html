@@ -2,15 +2,14 @@
 <html>
 <head>
     <title>
-        LaTex Crawler
+        LaTex
     </title>
     <body>
         <h1>LaTex Crawler & Compiler </h1>
-        <ul>
-            {% for tag in tags%}
-            <li><a href="/{{slug_tags[tag]}}"> {{tag}} </a></li>
+            {% for item in items %}
+            <img src="../data/latex/{{item}}/{{item}}.png"/>
             {% endfor %}
-        </ul>
+
     </body>
 </head>
 </html>
