@@ -29,6 +29,7 @@ This is a page for a specific tag.
  partially.
 3. Prettify the front-end, the images should be with captions and .css files should be included in static to
  make sure that the pages are correctly styled and the images are scaled properly.
+4. Deployment: deploy the application to a Linux cloud server that runs as a website.
 
 ## Dependencies
 1. [MacTex](https://tug.org/mactex/mactex-download.html) running on Mac OS X
