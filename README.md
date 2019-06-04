@@ -1,4 +1,4 @@
-# Latex Crawler, Compiler & Search Engine
+# Latex Crawler, Compiler & Web Application 
 
 ## Introduction
 This is a project for the coding task required by a team at HKUST for a summer intern interview.
