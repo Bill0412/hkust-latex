@@ -1,0 +1,4 @@
+
+%\def\ShowStepByStep{}%  Ignored in this case
+\def\AnimateSieve{}%
+%\def\AnimatedGif{}%     Must be commented

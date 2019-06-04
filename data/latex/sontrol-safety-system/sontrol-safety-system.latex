@@ -1,0 +1,46 @@
+% Principle of separated control and safety systems.
+% Author: Erno Pentzin (2013)
+\documentclass{article}
+\usepackage{tikz}
+\usetikzlibrary{decorations.markings}
+\begin{document}
+
+\begin{tikzpicture}[
+	decoration={
+		markings,
+		mark=at position 1cm with {\arrow[black]{stealth}},
+	},
+	path/.style={
+		->,
+		>=stealth,
+		postaction=decorate
+	},
+	every node/.style={font=\sffamily}
+]
+
+% Boxes
+\node [
+	draw,
+	yshift=2cm,
+	minimum width=4cm,
+] (control) {Control System};
+\node [
+	draw,
+	minimum width=5cm,
+	minimum height=1cm,
+] (process) {Process/Equipment};
+\node [
+	draw,
+	yshift=-2cm,
+	minimum width=4cm,
+] (safety) {Safety System};
+
+% Connecting Arrows
+\draw[path] (control.east) -- ++(1,0) |- ([yshift=-0.25cm] process.north east);
+\draw[path] ([yshift=-0.25cm] process.north west) -- ++(-1,0) |- (control.west);
+\draw[path] ([yshift=0.25cm] process.south west) -- ++(-1,0) |- (safety.west);
+\draw[path] (safety.east) -- ++(1,0) |- ([yshift=0.25cm] process.south east);
+
+\end{tikzpicture}
+
+\end{document}

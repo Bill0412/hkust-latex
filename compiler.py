@@ -4,6 +4,7 @@ from latex import build_pdf
 from wand.image import Image
 from pdf2image import convert_from_path
 
+# TODO: 1. Fix the trim issue; 2. Fix the compiler error; 3. Multi-page pdf support
 
 class Compiler:
     def __init__(self, base_path='data/latex/'):
@@ -17,8 +18,9 @@ class Compiler:
         pdf.save_to(base_filename + '.pdf')
 
         # convert to .png file
-        pages = convert_from_path('data/city.pdf')
+        pages = convert_from_path(base_filename + '.pdf')
 
+        # multi-page pdf support should be implemented here
         for page in pages:
             page.save(base_filename + '_temp.png', 'PNG')
 

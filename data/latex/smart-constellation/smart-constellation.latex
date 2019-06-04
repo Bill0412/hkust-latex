@@ -1,0 +1,9 @@
+% A diagram of TeX software
+% Author: Stefan Kottwitz
+% https://www.packtpub.com/hardware-and-creative/latex-cookbook
+\documentclass[border=10pt]{standalone}
+\usepackage{smartdiagram}
+\begin{document}
+\smartdiagram[constellation diagram]{\TeX\ software,
+  Editor, Compiler, Converter, PDF Reader}
+\end{document}
