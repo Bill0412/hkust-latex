@@ -21,7 +21,6 @@ This is a page for a specific tag.
  these latex files won't compile at overleaf platform as well.
   ![index.html](images/overleaf-compile-error.png)
   
-  
 
 ## TODO
 1. A support for multi-page .pdf file conversion to .png file, currently, only the last page of the .pdf
@@ -30,7 +29,11 @@ This is a page for a specific tag.
  partially.
 3. Prettify the front-end, the images should be with captions and .css files should be included in static to
  make sure that the pages are correctly styled and the images are scaled properly.
- 
+
+## Dependencies
+1. [MacTex](https://tug.org/mactex/mactex-download.html) running on Mac OS X
+2. Relative Python packages as following. (A screen-shot from PyCharm Package Manager)
+![python dependencies](images/python-dependencies.png)
  
 ## Liscence
 MIT
