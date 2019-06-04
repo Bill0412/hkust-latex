@@ -1,0 +1,46 @@
+% Handling the crossover of intersecting lines
+% Author: Steffen Knoll
+\documentclass{article}
+\usepackage{tikz}
+\usetikzlibrary{intersections}
+\usepackage{tkz-euclide}
+\usetkzobj{all}
+
+\begin{document}
+
+% Radius for arc over intersection
+\def\radius{1.mm} 
+
+\begin{tikzpicture}[scale=1]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (0,3);
+  \coordinate (C) at (2,0);
+  \coordinate (D) at (3,3);
+
+  % first line
+  \draw [->,name path=line 1] (B) -- (C);
+
+  % second line (defined as path)
+  \path[name path=line 2] (D) -- (A);	
+
+  % find intersection of first and second line
+  \path [name intersections={of = line 1 and line 2}];
+  \coordinate (S)  at (intersection-1);
+
+  % path a circle around this intersection for the arc
+  \path[name path=circle] (S) circle(\radius);
+
+  % find intersections of second line and circle
+  \path [name intersections={of = circle and line 2}];
+  \coordinate (I1)  at (intersection-1);
+  \coordinate (I2)  at (intersection-2);
+
+  % draw normal line segments
+  \draw (D) -- (I1);
+  \draw[->] (I2) -- (A);
+
+  % draw arc at intersection
+  \tkzDrawArc[color=black](S,I1)(I2);
+
+\end{tikzpicture}
+\end{document}

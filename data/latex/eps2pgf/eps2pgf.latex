@@ -1,0 +1,5 @@
+\documentclass{article}
+\usepackage{pgf}
+\begin{document}
+    \input{tiger.pgf}
+\end{document}

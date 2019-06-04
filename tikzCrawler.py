@@ -3,6 +3,7 @@
 from crawler import Crawler
 from bs4 import BeautifulSoup
 import os
+import json
 
 class TikzCrawler(Crawler):
     def __init__(self):
@@ -11,6 +12,10 @@ class TikzCrawler(Crawler):
         self.base_uri = 'http://www.texample.net/'
         # self.id = 0
         self.tags = dict()
+        if os.path.exists('data/tags.json'):
+            with open('data/tags.json', 'r') as infile:
+                self.tags = json.load(infile)
+                print(self.tags)
 
     def _get_links(self):
         html = self.crawl_html(self.source_uri)
@@ -27,10 +32,16 @@ class TikzCrawler(Crawler):
         links = self._get_links()
 
         # crawl all the pages
+        if not os.path.exists('data/latex'):
+            os.mkdir('data/latex')
         for link in links:
-            slug = link.rsplit('/')[-2]
-            if not os.path.exists('data/latex/' + slug):
-                self.crawl_single_page_latex(link, self.tags)
+            try:
+                slug = link.rsplit('/')[-2]
+                # continue with left ones
+                if not os.path.exists('data/latex/{0}/{0}.png'.format(slug)):
+                    self.crawl_single_page_latex(link, self.tags)
+            except Exception as e:
+                self.write_log(str(e))
 
     def block_test(self):
         ## Test get_links

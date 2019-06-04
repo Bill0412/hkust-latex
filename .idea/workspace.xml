@@ -2,16 +2,678 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f4e1af-3e9d-4505-93a3-33f7e49c69cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/compiler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/city.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/city.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/latex/city/city.latex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/latex/city/city.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/latex/city/city.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/latex/city/city_temp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/parallelepiped.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-cone/3d-cone.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-cone/3d-cone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-cone/3d-cone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-cone/3d-cone_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-graph-model/3d-graph-model.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-graph-model/3d-graph-model.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-graph-model/3d-graph-model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/3d-graph-model/3d-graph-model_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/a-calender-for-doublesided-din-a4/a-calender-for-doublesided-din-a4.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/a-calender-for-doublesided-din-a4/a-calender-for-doublesided-din-a4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/a-calender-for-doublesided-din-a4/a-calender-for-doublesided-din-a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/a-calender-for-doublesided-din-a4/a-calender-for-doublesided-din-a4_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-components/ac-drive-components.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-components/ac-drive-components.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-components/ac-drive-components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-components/ac-drive-components_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-dtc/ac-drive-dtc.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/ac-drive-dtc/ac-drive-dtc.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-dtc/ac-drive-dtc.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/ac-drive-dtc/ac-drive-dtc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-voltage/ac-drive-voltage.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-voltage/ac-drive-voltage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-voltage/ac-drive-voltage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ac-drive-voltage/ac-drive-voltage_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/actor-transaction-diagram/actor-transaction-diagram.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/actor-transaction-diagram/actor-transaction-diagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/actor-transaction-diagram/actor-transaction-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/actor-transaction-diagram/actor-transaction-diagram_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/airfoil-profiles/airfoil-profiles.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/airfoil-profiles/airfoil-profiles.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/airfoil-profiles/airfoil-profiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/airfoil-profiles/airfoil-profiles_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/andler-optimal-lot-size/andler-optimal-lot-size.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/andler-optimal-lot-size/andler-optimal-lot-size.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/andler-optimal-lot-size/andler-optimal-lot-size.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/andler-optimal-lot-size/andler-optimal-lot-size_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/android/android.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/android/android.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/android/android.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/android/android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/angles-quotes/angles-quotes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/angles-quotes/angles-quotes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/angles-quotes/angles-quotes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/angles-quotes/angles-quotes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-definite-integral/animated-definite-integral.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-definite-integral/animated-definite-integral.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-definite-integral/animated-definite-integral.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-definite-integral/animated-definite-integral_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-distributions/animated-distributions.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-distributions/animated-distributions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-distributions/animated-distributions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-distributions/animated-distributions_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-set-intersection/animated-set-intersection.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-set-intersection/animated-set-intersection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-set-intersection/animated-set-intersection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/animated-set-intersection/animated-set-intersection_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/annotated-3d-box/annotated-3d-box.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/annotated-3d-box/annotated-3d-box.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/annotated-3d-box/annotated-3d-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/annotated-3d-box/annotated-3d-box_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/archimedess-approximation-of-pi/archimedess-approximation-of-pi.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/archimedess-approximation-of-pi/archimedess-approximation-of-pi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/archimedess-approximation-of-pi/archimedess-approximation-of-pi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/archimedess-approximation-of-pi/archimedess-approximation-of-pi_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/arithmetic-of-the-clock/arithmetic-of-the-clock.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/arithmetic-of-the-clock/arithmetic-of-the-clock.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/arithmetic-of-the-clock/arithmetic-of-the-clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/arithmetic-of-the-clock/arithmetic-of-the-clock_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/assignment-structure/assignment-structure.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/asymmetric-information/asymmetric-information.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/asymmetric-information/asymmetric-information.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/asymmetric-information/asymmetric-information.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/asymmetric-information/asymmetric-information.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/atoms-and-orbitals/atoms-and-orbitals.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/atoms-and-orbitals/atoms-and-orbitals.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/atoms-and-orbitals/atoms-and-orbitals.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/atoms-and-orbitals/atoms-and-orbitals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/automata/automata.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/automata/automata.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/automata/automata.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/automata/automata.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/balance/balance.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/balance/balance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/balance/balance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/balance/balance_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bar-chart/bar-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bar-chart/bar-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bar-chart/bar-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bar-chart/bar-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bayes/bayes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bayes/bayes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bayes/bayes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bayes/bayes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/beamer-arrows/beamer-arrows.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/beamer-arrows/beamer-arrows.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/beamer-arrows/beamer-arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/beamer-arrows/beamer-arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/belt-pulley/belt-pulley.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/belt-pulley/belt-pulley.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/belt-pulley/belt-pulley.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/belt-pulley/belt-pulley.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bernoulli/bernoulli.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bernoulli/bernoulli.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bernoulli/bernoulli.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bernoulli/bernoulli.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/biconcave-lens/biconcave-lens.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/biconcave-lens/biconcave-lens.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/biconcave-lens/biconcave-lens.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/biconcave-lens/biconcave-lens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/birthday-cake/birthday-cake.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/birthday-cake/birthday-cake.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/birthday-cake/birthday-cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/birthday-cake/birthday-cake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/birthday-calendar/birthday-calendar.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/birthday-calendar/birthday-calendar.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/birthday-calendar/birthday-calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/birthday-calendar/birthday-calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bisector/bisector.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bisector/bisector.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bisector/bisector.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bisector/bisector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bootstrap-resampling/bootstrap-resampling.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bootstrap-resampling/bootstrap-resampling.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/bootstrap-resampling/bootstrap-resampling.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/bootstrap-resampling/bootstrap-resampling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/borromean-rings/borromean-rings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/borromean-rings/borromean-rings.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/borromean-rings/borromean-rings.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/borromean-rings/borromean-rings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/borrowers-and-lenders/borrowers-and-lenders.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/borrowers-and-lenders/borrowers-and-lenders.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/borrowers-and-lenders/borrowers-and-lenders.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/borrowers-and-lenders/borrowers-and-lenders.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/box-and-whisker-plot/box-and-whisker-plot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/box-and-whisker-plot/box-and-whisker-plot.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/box-and-whisker-plot/box-and-whisker-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/box-and-whisker-plot/box-and-whisker-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/boxes-with-text-and-math/boxes-with-text-and-math.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/boxes-with-text-and-math/boxes-with-text-and-math.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/boxes-with-text-and-math/boxes-with-text-and-math.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/boxes-with-text-and-math/boxes-with-text-and-math.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/butterfly-lemma/butterfly-lemma.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/butterfly-lemma/butterfly-lemma.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/butterfly-lemma/butterfly-lemma.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/butterfly-lemma/butterfly-lemma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/calendar-circles/calendar-circles.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/calendar-circles/calendar-circles.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/calendar-circles/calendar-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/calendar-circles/calendar-circles_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/changing-the-default-calendar-layout/changing-the-default-calendar-layout.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/changing-the-default-calendar-layout/changing-the-default-calendar-layout.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/changing-the-default-calendar-layout/changing-the-default-calendar-layout.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/changing-the-default-calendar-layout/changing-the-default-calendar-layout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-1/christmas-tree-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-1/christmas-tree-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-1/christmas-tree-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-1/christmas-tree-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-2/christmas-tree-2_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-3/christmas-tree-3_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-4/christmas-tree-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-4/christmas-tree-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/christmas-tree-4/christmas-tree-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/christmas-tree-4/christmas-tree-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cielab/cielab.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cielab/cielab.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cielab/cielab.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cielab/cielab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/circuit/circuit.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/circuit/circuit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/circuit/circuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/circuit/circuit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/circular-arrows-text/circular-arrows-text.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/circular-arrows-text/circular-arrows-text.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/circular-arrows-text/circular-arrows-text.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/circular-arrows-text/circular-arrows-text.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/city/city.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/city/city.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/city/city.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/city/city.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/city/city_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/city/city_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/class-diagram/class-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/class-diagram/class-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/class-diagram/class-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/class-diagram/class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/clusters-of-atoms/clusters-of-atoms.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/clusters-of-atoms/clusters-of-atoms.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/clusters-of-atoms/clusters-of-atoms.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/clusters-of-atoms/clusters-of-atoms.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cn4-points-of-intersection/cn4-points-of-intersection.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cn4-points-of-intersection/cn4-points-of-intersection.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cn4-points-of-intersection/cn4-points-of-intersection.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cn4-points-of-intersection/cn4-points-of-intersection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/coffee-cup/coffee-cup.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/coffee-cup/coffee-cup.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/coffee-cup/coffee-cup.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/coffee-cup/coffee-cup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/collpits/collpits.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/collpits/collpits.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/collpits/collpits.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/collpits/collpits.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/colored-diagram/colored-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/colored-diagram/colored-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/colored-diagram/colored-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/colored-diagram/colored-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/combinatorial-graphs/combinatorial-graphs.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/combinatorial-graphs/combinatorial-graphs.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/combinatorial-graphs/combinatorial-graphs.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/combinatorial-graphs/combinatorial-graphs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/commutative-diagram-tikz/commutative-diagram-tikz.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/commutative-diagram-tikz/commutative-diagram-tikz.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/commutative-diagram-tikz/commutative-diagram-tikz.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/commutative-diagram-tikz/commutative-diagram-tikz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/commutative-diagram/commutative-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/commutative-diagram/commutative-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/commutative-diagram/commutative-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/commutative-diagram/commutative-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complete-graph/complete-graph.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complete-graph/complete-graph.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complete-graph/complete-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complete-graph/complete-graph_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complex-plane/complex-plane.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/complex-plane/complex-plane.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complex-plane/complex-plane.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/complex-plane/complex-plane.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complexity-classes/complexity-classes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/complexity-classes/complexity-classes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/complexity-classes/complexity-classes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/complexity-classes/complexity-classes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/computer-diagram/computer-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/computer-diagram/computer-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/computer-diagram/computer-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/computer-diagram/computer-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/computer-science-mindmap/computer-science-mindmap.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/computer-science-mindmap/computer-science-mindmap.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/computer-science-mindmap/computer-science-mindmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/computer-science-mindmap/computer-science-mindmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cone/cone.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cone/cone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cone/cone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cone/cone_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/consort-flowchart/consort-flowchart.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/consort-flowchart/consort-flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/consort-flowchart/consort-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/consort-flowchart/consort-flowchart_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/control-system-principles/control-system-principles.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/control-system-principles/control-system-principles.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/control-system-principles/control-system-principles.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/control-system-principles/control-system-principles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/convolution-of-two-functions/convolution-of-two-functions.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/convolution-of-two-functions/convolution-of-two-functions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/convolution-of-two-functions/convolution-of-two-functions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/convolution-of-two-functions/convolution-of-two-functions_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/credit-rationing/credit-rationing.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/credit-rationing/credit-rationing.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/credit-rationing/credit-rationing.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/credit-rationing/credit-rationing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cuboid/cuboid.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cuboid/cuboid.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cuboid/cuboid.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cuboid/cuboid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cycle/cycle.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cycle/cycle.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cycle/cycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cycle/cycle_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cylinder-segment/cylinder-segment.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cylinder-segment/cylinder-segment.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/cylinder-segment/cylinder-segment.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/cylinder-segment/cylinder-segment.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/d-flip-flops-and-shift-register/d-flip-flops-and-shift-register.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/d-flip-flops-and-shift-register/d-flip-flops-and-shift-register.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/d-flip-flops-and-shift-register/d-flip-flops-and-shift-register.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/d-flip-flops-and-shift-register/d-flip-flops-and-shift-register.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dandelin-spheres/dandelin-spheres.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dandelin-spheres/dandelin-spheres.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dandelin-spheres/dandelin-spheres.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dandelin-spheres/dandelin-spheres.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/daniells-pile/daniells-pile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/daniells-pile/daniells-pile.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/daniells-pile/daniells-pile.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/daniells-pile/daniells-pile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dartboard/dartboard.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dartboard/dartboard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dartboard/dartboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dartboard/dartboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/data-flow-diagram/data-flow-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/data-flow-diagram/data-flow-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/data-flow-diagram/data-flow-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/data-flow-diagram/data-flow-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/database-decimation-process/database-decimation-process.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/database-decimation-process/database-decimation-process.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/database-decimation-process/database-decimation-process.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/database-decimation-process/database-decimation-process.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/decision-tree/decision-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/decision-tree/decision-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/decision-tree/decision-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/decision-tree/decision-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/degree-wheel/degree-wheel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/degree-wheel/degree-wheel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/degree-wheel/degree-wheel.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/degree-wheel/degree-wheel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dekatron/dekatron.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dekatron/dekatron.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dekatron/dekatron.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dekatron/dekatron.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/diagram-chains/diagram-chains_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/difference-quotient/difference-quotient.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/difference-quotient/difference-quotient.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/difference-quotient/difference-quotient.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/difference-quotient/difference-quotient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dipolar-magnetic-field/dipolar-magnetic-field.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dipolar-magnetic-field/dipolar-magnetic-field.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dipolar-magnetic-field/dipolar-magnetic-field.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dipolar-magnetic-field/dipolar-magnetic-field.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/distributed-processing/distributed-processing.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/distributed-processing/distributed-processing.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/distributed-processing/distributed-processing.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/distributed-processing/distributed-processing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/doa-diagram/doa-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/doa-diagram/doa-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/doa-diagram/doa-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/doa-diagram/doa-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dome/dome.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dome/dome.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dome/dome.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dome/dome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dominoes/dominoes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dominoes/dominoes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dominoes/dominoes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dominoes/dominoes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/double-arrows/double-arrows.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/double-arrows/double-arrows.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/double-arrows/double-arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/double-arrows/double-arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/draw-fill-bezier-curves/draw-fill-bezier-curves.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/draw-fill-bezier-curves/draw-fill-bezier-curves.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/draw-fill-bezier-curves/draw-fill-bezier-curves.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/draw-fill-bezier-curves/draw-fill-bezier-curves.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dva-vectors/dva-vectors.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dva-vectors/dva-vectors.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/dva-vectors/dva-vectors.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/dva-vectors/dva-vectors.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/egg/egg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/egg/egg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/egg/egg.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/egg/egg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/emoticons/emoticons.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/emoticons/emoticons.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/emoticons/emoticons.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/emoticons/emoticons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/energy-level-diagram/energy-level-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/energy-level-diagram/energy-level-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/energy-level-diagram/energy-level-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/energy-level-diagram/energy-level-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/energy-levels/energy-levels.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/energy-levels/energy-levels.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/energy-levels/energy-levels.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/energy-levels/energy-levels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/envelope/envelope.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/envelope/envelope.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/envelope/envelope.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/envelope/envelope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/epc-flow-charts/epc-flow-charts.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/epc-flow-charts/epc-flow-charts.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/epc-flow-charts/epc-flow-charts.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/epc-flow-charts/epc-flow-charts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/er-diagram/er-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/er-diagram/er-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/er-diagram/er-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/er-diagram/er-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/escher-brick-penrose-triangle/escher-brick-penrose-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/escher-brick-penrose-triangle/escher-brick-penrose-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/escher-brick-penrose-triangle/escher-brick-penrose-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/escher-brick-penrose-triangle/escher-brick-penrose-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/euclid-algorithm/euclid-algorithm.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/euclid-algorithm/euclid-algorithm.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/euclid-algorithm/euclid-algorithm.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/euclid-algorithm/euclid-algorithm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/exam-sheet/exam-sheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/exam-sheet/exam-sheet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/exam-sheet/exam-sheet.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/exam-sheet/exam-sheet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/faking-slanted-small-caps/faking-slanted-small-caps.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/faking-slanted-small-caps/faking-slanted-small-caps.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/faking-slanted-small-caps/faking-slanted-small-caps.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/faking-slanted-small-caps/faking-slanted-small-caps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/family-tree/family-tree.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/family-tree/family-tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/family-tree/family-tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/family-tree/family-tree_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fancy-arrows/fancy-arrows.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fancy-arrows/fancy-arrows.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fancy-arrows/fancy-arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fancy-arrows/fancy-arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fault-tree/fault-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fault-tree/fault-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fault-tree/fault-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fault-tree/fault-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/feynman-diagram/feynman-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/feynman-diagram/feynman-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/feynman-diagram/feynman-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/feynman-diagram/feynman-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fiber-coupler/fiber-coupler.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fiber-coupler/fiber-coupler.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fiber-coupler/fiber-coupler.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fiber-coupler/fiber-coupler.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fibonacci-spiral/fibonacci-spiral.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fibonacci-spiral/fibonacci-spiral.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fibonacci-spiral/fibonacci-spiral.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fibonacci-spiral/fibonacci-spiral.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/file-folder/file-folder.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/file-folder/file-folder.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/file-folder/file-folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/file-folder/file-folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/filesystem-tree/filesystem-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/filesystem-tree/filesystem-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/filesystem-tree/filesystem-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/filesystem-tree/filesystem-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fireworks/fireworks.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fireworks/fireworks.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fireworks/fireworks.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fireworks/fireworks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fireworks/fireworks_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fireworks/fireworks_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/flexible-flow-chart/flexible-flow-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/flexible-flow-chart/flexible-flow-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/flexible-flow-chart/flexible-flow-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/flexible-flow-chart/flexible-flow-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fluor-energy-levels/fluor-energy-levels.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fluor-energy-levels/fluor-energy-levels.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/fluor-energy-levels/fluor-energy-levels.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/fluor-energy-levels/fluor-energy-levels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/focused-ion-beam-system/focused-ion-beam-system_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/foldable-dodecahedron-with-calendar/foldable-dodecahedron-with-calendar.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/foldable-dodecahedron-with-calendar/foldable-dodecahedron-with-calendar.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/foldable-dodecahedron-with-calendar/foldable-dodecahedron-with-calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/foldable-dodecahedron-with-calendar/foldable-dodecahedron-with-calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ford-circle/ford-circle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/ford-circle/ford-circle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/ford-circle/ford-circle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/ford-circle/ford-circle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/framed-tikz/framed-tikz.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/framed-tikz/framed-tikz.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/framed-tikz/framed-tikz.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/framed-tikz/framed-tikz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/free-body-diagrams/free-body-diagrams.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/free-body-diagrams/free-body-diagrams.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/free-body-diagrams/free-body-diagrams.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/free-body-diagrams/free-body-diagrams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gajski-kuhn-y-chart/gajski-kuhn-y-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gajski-kuhn-y-chart/gajski-kuhn-y-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gajski-kuhn-y-chart/gajski-kuhn-y-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gajski-kuhn-y-chart/gajski-kuhn-y-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gamma-interaction/gamma-interaction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gamma-interaction/gamma-interaction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gamma-interaction/gamma-interaction.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gamma-interaction/gamma-interaction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/genaille-and-lucas-sticks/genaille-and-lucas-sticks.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/genaille-and-lucas-sticks/genaille-and-lucas-sticks.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/genaille-and-lucas-sticks/genaille-and-lucas-sticks.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/genaille-and-lucas-sticks/genaille-and-lucas-sticks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/geometric-series/geometric-series.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/geometric-series/geometric-series.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/geometric-series/geometric-series.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/geometric-series/geometric-series.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/glider/glider.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/glider/glider.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/glider/glider.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/glider/glider.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/global-nodes/global-nodes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/global-nodes/global-nodes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/global-nodes/global-nodes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/global-nodes/global-nodes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gnuplot-basics/gnuplot-basics.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gnuplot-basics/gnuplot-basics.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gnuplot-basics/gnuplot-basics.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gnuplot-basics/gnuplot-basics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/graph-paper/graph-paper.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/graph-paper/graph-paper.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/graph-paper/graph-paper.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/graph-paper/graph-paper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/graph/graph.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/graph/graph.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/graph/graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/graph/graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gray-code-in-4-cube/gray-code-in-4-cube.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gray-code-in-4-cube/gray-code-in-4-cube.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/gray-code-in-4-cube/gray-code-in-4-cube.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/gray-code-in-4-cube/gray-code-in-4-cube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/growing-wave-decoration/growing-wave-decoration.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/growing-wave-decoration/growing-wave-decoration.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/growing-wave-decoration/growing-wave-decoration.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/growing-wave-decoration/growing-wave-decoration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/guitar-chords/guitar-chords.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/guitar-chords/guitar-chords.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/guitar-chords/guitar-chords.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/guitar-chords/guitar-chords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/h-tree/h-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/h-tree/h-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/h-tree/h-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/h-tree/h-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hand-drawn-lines/hand-drawn-lines_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hierarchical-diagram/hierarchical-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hierarchical-diagram/hierarchical-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hierarchical-diagram/hierarchical-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hierarchical-diagram/hierarchical-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/high-harmonics/high-harmonics.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/high-harmonics/high-harmonics.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/high-harmonics/high-harmonics.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/high-harmonics/high-harmonics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/highlighting-matrix/highlighting-matrix.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/highlighting-matrix/highlighting-matrix.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/highlighting-matrix/highlighting-matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/highlighting-matrix/highlighting-matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hilbert-curve/hilbert-curve.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hilbert-curve/hilbert-curve.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hilbert-curve/hilbert-curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hilbert-curve/hilbert-curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/homotopy/homotopy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/homotopy/homotopy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/homotopy/homotopy.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/homotopy/homotopy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hypercycle/hypercycle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hypercycle/hypercycle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/hypercycle/hypercycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/hypercycle/hypercycle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/idealised-directional-spectrum/idealised-directional-spectrum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/idealised-directional-spectrum/idealised-directional-spectrum.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/idealised-directional-spectrum/idealised-directional-spectrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/idealised-directional-spectrum/idealised-directional-spectrum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/india-map/india-map.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/india-map/india-map.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/india-map/india-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/india-map/india-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/induction-machine/induction-machine.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/induction-machine/induction-machine.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/induction-machine/induction-machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/induction-machine/induction-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/inertial-navigation-system/inertial-navigation-system.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/inertial-navigation-system/inertial-navigation-system.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/inertial-navigation-system/inertial-navigation-system.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/inertial-navigation-system/inertial-navigation-system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/insulated-gate-bipolar-transistor/insulated-gate-bipolar-transistor.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/insulated-gate-bipolar-transistor/insulated-gate-bipolar-transistor.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/insulated-gate-bipolar-transistor/insulated-gate-bipolar-transistor.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/insulated-gate-bipolar-transistor/insulated-gate-bipolar-transistor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/interaction-diagram/interaction-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/interaction-diagram/interaction-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/interaction-diagram/interaction-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/interaction-diagram/interaction-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/interaction-nets/interaction-nets.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/interaction-nets/interaction-nets.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/interaction-nets/interaction-nets.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/interaction-nets/interaction-nets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersecting-lines/intersecting-lines.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersecting-lines/intersecting-lines.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersecting-lines/intersecting-lines.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersecting-lines/intersecting-lines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersecting-rings/intersecting-rings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersecting-rings/intersecting-rings.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersecting-rings/intersecting-rings.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersecting-rings/intersecting-rings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersection-of/intersection-of.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersection-of/intersection-of.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/intersection-of/intersection-of.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/intersection-of/intersection-of.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/is-lm-diagram/is-lm-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/is-lm-diagram/is-lm-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/is-lm-diagram/is-lm-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/is-lm-diagram/is-lm-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/islamic-art/islamic-art.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/islamic-art/islamic-art.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/islamic-art/islamic-art.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/islamic-art/islamic-art.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/j-curve/j-curve.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/j-curve/j-curve.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/j-curve/j-curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/j-curve/j-curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/junction-diagram/junction-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/junction-diagram/junction-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/junction-diagram/junction-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/junction-diagram/junction-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kalman-filter/kalman-filter_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/karnaugh-diagram/karnaugh-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/karnaugh-diagram/karnaugh-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/karnaugh-diagram/karnaugh-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/karnaugh-diagram/karnaugh-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kascade-map/kascade-map.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kascade-map/kascade-map.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kascade-map/kascade-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kascade-map/kascade-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kb-exchange/kb-exchange.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kb-exchange/kb-exchange.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/kb-exchange/kb-exchange.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/kb-exchange/kb-exchange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/labeled-chain/labeled-chain.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/labeled-chain/labeled-chain.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/labeled-chain/labeled-chain.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/labeled-chain/labeled-chain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/labs-schema/labs-schema.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/labs-schema/labs-schema.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/labs-schema/labs-schema.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/labs-schema/labs-schema.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lattice-points/lattice-points.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lattice-points/lattice-points.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lattice-points/lattice-points.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lattice-points/lattice-points.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lindenmayer-systems/lindenmayer-systems.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lindenmayer-systems/lindenmayer-systems.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lindenmayer-systems/lindenmayer-systems.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lindenmayer-systems/lindenmayer-systems.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-junction/line-junction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-junction/line-junction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-junction/line-junction.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-junction/line-junction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-junctions/line-junctions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-junctions/line-junctions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-junctions/line-junctions.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-junctions/line-junctions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-plot-example/line-plot-example.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-plot-example/line-plot-example.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/line-plot-example/line-plot-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/line-plot-example/line-plot-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/linear-regression/linear-regression.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/linear-regression/linear-regression.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/linear-regression/linear-regression.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/linear-regression/linear-regression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lipid-vesicle/lipid-vesicle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lipid-vesicle/lipid-vesicle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lipid-vesicle/lipid-vesicle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lipid-vesicle/lipid-vesicle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/logarithmic-spiral/logarithmic-spiral.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/logarithmic-spiral/logarithmic-spiral.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/logarithmic-spiral/logarithmic-spiral.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/logarithmic-spiral/logarithmic-spiral.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/logic-matrix/logic-matrix.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/logic-matrix/logic-matrix.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/logic-matrix/logic-matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/logic-matrix/logic-matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lune-of-hippocrates/lune-of-hippocrates.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lune-of-hippocrates/lune-of-hippocrates.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/lune-of-hippocrates/lune-of-hippocrates.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/lune-of-hippocrates/lune-of-hippocrates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mandala/mandala.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mandala/mandala.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mandala/mandala.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mandala/mandala.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/marketing-distribution-channel/marketing-distribution-channel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/marketing-distribution-channel/marketing-distribution-channel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/marketing-distribution-channel/marketing-distribution-channel.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/marketing-distribution-channel/marketing-distribution-channel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/math-flowchart/math-flowchart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/math-flowchart/math-flowchart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/math-flowchart/math-flowchart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/math-flowchart/math-flowchart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/maze/maze.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/maze/maze.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/maze/maze.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/maze/maze.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/membrane-ions/membrane-ions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/membrane-ions/membrane-ions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/membrane-ions/membrane-ions.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/membrane-ions/membrane-ions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/membrane-surface/membrane-surface_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/merge-sort-recursion-tree/merge-sort-recursion-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/merge-sort-recursion-tree/merge-sort-recursion-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/merge-sort-recursion-tree/merge-sort-recursion-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/merge-sort-recursion-tree/merge-sort-recursion-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mesif/mesif.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mesif/mesif.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mesif/mesif.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mesif/mesif.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mnemonic-rule-for-matrix-determinant/mnemonic-rule-for-matrix-determinant.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mnemonic-rule-for-matrix-determinant/mnemonic-rule-for-matrix-determinant.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mnemonic-rule-for-matrix-determinant/mnemonic-rule-for-matrix-determinant.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mnemonic-rule-for-matrix-determinant/mnemonic-rule-for-matrix-determinant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/model-diagram/model-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/model-diagram/model-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/model-diagram/model-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/model-diagram/model-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/more-tikz-timing-examples/more-tikz-timing-examples.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/more-tikz-timing-examples/more-tikz-timing-examples.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/more-tikz-timing-examples/more-tikz-timing-examples.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/more-tikz-timing-examples/more-tikz-timing-examples.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosaic-from-pompeii/mosaic-from-pompeii.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mosaic-from-pompeii/mosaic-from-pompeii.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosaic-from-pompeii/mosaic-from-pompeii.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/mosaic-from-pompeii/mosaic-from-pompeii.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosfet/mosfet.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosfet/mosfet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosfet/mosfet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/mosfet/mosfet_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/multiplexer/multiplexer.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/multiplexer/multiplexer.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/multiplexer/multiplexer.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/multiplexer/multiplexer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nav1d/nav1d.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nav1d/nav1d.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nav1d/nav1d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nav1d/nav1d_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nested-grids-in-swan-and-wam-coupling/nested-grids-in-swan-and-wam-coupling.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/nested-grids-in-swan-and-wam-coupling/nested-grids-in-swan-and-wam-coupling.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nested-grids-in-swan-and-wam-coupling/nested-grids-in-swan-and-wam-coupling.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/nested-grids-in-swan-and-wam-coupling/nested-grids-in-swan-and-wam-coupling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/network-topology/network-topology.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/network-topology/network-topology.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/network-topology/network-topology.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/network-topology/network-topology.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/neural-network/neural-network.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/neural-network/neural-network.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/neural-network/neural-network.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/neural-network/neural-network.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/node-shapes/node-shapes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/node-shapes/node-shapes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/node-shapes/node-shapes.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/node-shapes/node-shapes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nodetutorial/nodetutorial.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nodetutorial/nodetutorial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nodetutorial/nodetutorial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/nodetutorial/nodetutorial_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/noise-shaper/noise-shaper.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/noise-shaper/noise-shaper.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/noise-shaper/noise-shaper.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/noise-shaper/noise-shaper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/oblique-incidence/oblique-incidence.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/oblique-incidence/oblique-incidence.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/oblique-incidence/oblique-incidence.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/oblique-incidence/oblique-incidence.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/observer-estimator/observer-estimator.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/observer-estimator/observer-estimator.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/observer-estimator/observer-estimator.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/observer-estimator/observer-estimator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/or-gate/or-gate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/or-gate/or-gate.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/or-gate/or-gate.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/or-gate/or-gate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/overlapping-arrows/overlapping-arrows.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/overlapping-arrows/overlapping-arrows.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/overlapping-arrows/overlapping-arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/overlapping-arrows/overlapping-arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/p2p-topology/p2p-topology.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/p2p-topology/p2p-topology.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/p2p-topology/p2p-topology.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/p2p-topology/p2p-topology.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pancake-network/pancake-network.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pancake-network/pancake-network.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pancake-network/pancake-network.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pancake-network/pancake-network.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parabola-plot/parabola-plot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parabola-plot/parabola-plot.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parabola-plot/parabola-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parabola-plot/parabola-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parallel-lines/parallel-lines.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parallel-lines/parallel-lines.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parallel-lines/parallel-lines.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parallel-lines/parallel-lines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parallelepiped/parallelepiped.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parallelepiped/parallelepiped.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parallelepiped/parallelepiped.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parallelepiped/parallelepiped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parameterised-pig/parameterised-pig.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parameterised-pig/parameterised-pig.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parameterised-pig/parameterised-pig.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parameterised-pig/parameterised-pig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parameterized-plots/parameterized-plots.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parameterized-plots/parameterized-plots.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/parameterized-plots/parameterized-plots.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/parameterized-plots/parameterized-plots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pascal-triangle/pascal-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pascal-triangle/pascal-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pascal-triangle/pascal-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pascal-triangle/pascal-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pascals-triangle-and-sierpinski-triangle/pascals-triangle-and-sierpinski-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pascals-triangle-and-sierpinski-triangle/pascals-triangle-and-sierpinski-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pascals-triangle-and-sierpinski-triangle/pascals-triangle-and-sierpinski-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pascals-triangle-and-sierpinski-triangle/pascals-triangle-and-sierpinski-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pdca-cycle/pdca-cycle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pdca-cycle/pdca-cycle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pdca-cycle/pdca-cycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pdca-cycle/pdca-cycle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/penrose-tiling/penrose-tiling.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/penrose-tiling/penrose-tiling.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/penrose-tiling/penrose-tiling.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/penrose-tiling/penrose-tiling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pera-model/pera-model.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pera-model/pera-model.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pera-model/pera-model.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pera-model/pera-model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/perpendicular-bissector/perpendicular-bissector.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/perpendicular-bissector/perpendicular-bissector.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/perpendicular-bissector/perpendicular-bissector.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/perpendicular-bissector/perpendicular-bissector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/personality-test/personality-test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/personality-test/personality-test.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/personality-test/personality-test.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/personality-test/personality-test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pgf2-titlepage/pgf2-titlepage_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pgfplots/pgfplots.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pgfplots/pgfplots.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pgfplots/pgfplots.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pgfplots/pgfplots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/phasor-diagram/phasor-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/phasor-diagram/phasor-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/phasor-diagram/phasor-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/phasor-diagram/phasor-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/philosophy/philosophy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/philosophy/philosophy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/philosophy/philosophy.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/philosophy/philosophy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/physical-pendulum/physical-pendulum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/physical-pendulum/physical-pendulum.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/physical-pendulum/physical-pendulum.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/physical-pendulum/physical-pendulum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pie-chart-color/pie-chart-color.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pie-chart-color/pie-chart-color.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pie-chart-color/pie-chart-color.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pie-chart-color/pie-chart-color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pie-chart/pie-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pie-chart/pie-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pie-chart/pie-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pie-chart/pie-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/plane-partition/plane-partition.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/plane-partition/plane-partition.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/plane-partition/plane-partition.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/plane-partition/plane-partition.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/planets/planets.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/planets/planets.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/planets/planets.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/planets/planets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/poincare/poincare.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/poincare/poincare.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/poincare/poincare.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/poincare/poincare.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polar-coordinates-template/polar-coordinates-template.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polar-coordinates-template/polar-coordinates-template.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polar-coordinates-template/polar-coordinates-template.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polar-coordinates-template/polar-coordinates-template.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polar-plot/polar-plot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polar-plot/polar-plot.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polar-plot/polar-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polar-plot/polar-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polarization-controller/polarization-controller.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polarization-controller/polarization-controller.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polarization-controller/polarization-controller.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polarization-controller/polarization-controller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polarizing-microscope/polarizing-microscope.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polarizing-microscope/polarizing-microscope.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polarizing-microscope/polarizing-microscope.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polarizing-microscope/polarizing-microscope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polars-tangents-conic/polars-tangents-conic.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polars-tangents-conic/polars-tangents-conic.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polars-tangents-conic/polars-tangents-conic.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polars-tangents-conic/polars-tangents-conic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polygon-division/polygon-division.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polygon-division/polygon-division.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/polygon-division/polygon-division.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/polygon-division/polygon-division.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/poppy/poppy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/poppy/poppy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/poppy/poppy.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/poppy/poppy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/porter-model/porter-model.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/porter-model/porter-model.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/porter-model/porter-model.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/porter-model/porter-model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-converter-inverter/power-electronics-converter-inverter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-converter-inverter/power-electronics-converter-inverter.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-converter-inverter/power-electronics-converter-inverter.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-converter-inverter/power-electronics-converter-inverter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-rectifier/power-electronics-rectifier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-rectifier/power-electronics-rectifier.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-rectifier/power-electronics-rectifier.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-rectifier/power-electronics-rectifier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-solar-system/power-electronics-solar-system.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-solar-system/power-electronics-solar-system.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/power-electronics-solar-system/power-electronics-solar-system.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/power-electronics-solar-system/power-electronics-solar-system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/prerequisite-chart/prerequisite-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/prerequisite-chart/prerequisite-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/prerequisite-chart/prerequisite-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/prerequisite-chart/prerequisite-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pressurized-water-reactor/pressurized-water-reactor.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pressurized-water-reactor/pressurized-water-reactor.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pressurized-water-reactor/pressurized-water-reactor.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pressurized-water-reactor/pressurized-water-reactor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/prims-algorithm/prims-algorithm.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/prims-algorithm/prims-algorithm.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/prims-algorithm/prims-algorithm.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/prims-algorithm/prims-algorithm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/principle-of-x-ray-photoelectron-spectroscopy-xps/principle-of-x-ray-photoelectron-spectroscopy-xps.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/principle-of-x-ray-photoelectron-spectroscopy-xps/principle-of-x-ray-photoelectron-spectroscopy-xps.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/principle-of-x-ray-photoelectron-spectroscopy-xps/principle-of-x-ray-photoelectron-spectroscopy-xps.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/principle-of-x-ray-photoelectron-spectroscopy-xps/principle-of-x-ray-photoelectron-spectroscopy-xps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/probability-tree/probability-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/probability-tree/probability-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/probability-tree/probability-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/probability-tree/probability-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/projectile/projectile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/projectile/projectile.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/projectile/projectile.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/projectile/projectile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/puzzle/puzzle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/puzzle/puzzle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/puzzle/puzzle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/puzzle/puzzle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pythagoras-triangle/pythagoras-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pythagoras-triangle/pythagoras-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/pythagoras-triangle/pythagoras-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/pythagoras-triangle/pythagoras-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/python-if-then-else-syntax-diagram/python-if-then-else-syntax-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/python-if-then-else-syntax-diagram/python-if-then-else-syntax-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/python-if-then-else-syntax-diagram/python-if-then-else-syntax-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/python-if-then-else-syntax-diagram/python-if-then-else-syntax-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/quantum-circuit/quantum-circuit.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/quantum-circuit/quantum-circuit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/quantum-circuit/quantum-circuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/quantum-circuit/quantum-circuit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/radix2fft/radix2fft.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/radix2fft/radix2fft.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/radix2fft/radix2fft.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/radix2fft/radix2fft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/raindrop/raindrop.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/raindrop/raindrop.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/raindrop/raindrop.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/raindrop/raindrop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rectangle-node-with-diagonal-fill/rectangle-node-with-diagonal-fill.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rectangle-node-with-diagonal-fill/rectangle-node-with-diagonal-fill.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rectangle-node-with-diagonal-fill/rectangle-node-with-diagonal-fill.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rectangle-node-with-diagonal-fill/rectangle-node-with-diagonal-fill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/red-black-tree/red-black-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/red-black-tree/red-black-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/red-black-tree/red-black-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/red-black-tree/red-black-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/refraction/refraction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/refraction/refraction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/refraction/refraction.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/refraction/refraction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/regular-polygons/regular-polygons.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/regular-polygons/regular-polygons.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/regular-polygons/regular-polygons.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/regular-polygons/regular-polygons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rgb-color-mixing/rgb-color-mixing.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rgb-color-mixing/rgb-color-mixing.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rgb-color-mixing/rgb-color-mixing.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rgb-color-mixing/rgb-color-mixing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rgb-triangle/rgb-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rgb-triangle/rgb-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rgb-triangle/rgb-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rgb-triangle/rgb-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rna-codons-table/rna-codons-table.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rna-codons-table/rna-codons-table.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rna-codons-table/rna-codons-table.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rna-codons-table/rna-codons-table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rooty-helix/rooty-helix.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rooty-helix/rooty-helix.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rooty-helix/rooty-helix.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rooty-helix/rooty-helix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rose-rhodonea-curve/rose-rhodonea-curve.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rose-rhodonea-curve/rose-rhodonea-curve.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rose-rhodonea-curve/rose-rhodonea-curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rose-rhodonea-curve/rose-rhodonea-curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-polygons/rotated-polygons.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-polygons/rotated-polygons.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-polygons/rotated-polygons.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-polygons/rotated-polygons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-squares/rotated-squares.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-squares/rotated-squares.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-squares/rotated-squares.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-squares/rotated-squares.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-triangle/rotated-triangle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-triangle/rotated-triangle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rotated-triangle/rotated-triangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rotated-triangle/rotated-triangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rpm-disc/rpm-disc.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rpm-disc/rpm-disc.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rpm-disc/rpm-disc.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rpm-disc/rpm-disc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rule-based-diagram/rule-based-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rule-based-diagram/rule-based-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rule-based-diagram/rule-based-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rule-based-diagram/rule-based-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rules/rules.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rules/rules.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rules/rules.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rules/rules.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rusting-iron/rusting-iron.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rusting-iron/rusting-iron.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/rusting-iron/rusting-iron.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/rusting-iron/rusting-iron.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/safe-fusion/safe-fusion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/safe-fusion/safe-fusion.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/safe-fusion/safe-fusion.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/safe-fusion/safe-fusion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sankey-diagram/sankey-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sankey-diagram/sankey-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sankey-diagram/sankey-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sankey-diagram/sankey-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scanning-electron-microscopy/scanning-electron-microscopy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scanning-electron-microscopy/scanning-electron-microscopy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scanning-electron-microscopy/scanning-electron-microscopy.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scanning-electron-microscopy/scanning-electron-microscopy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scatterplot/scatterplot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scatterplot/scatterplot.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scatterplot/scatterplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scatterplot/scatterplot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scenario-tree/scenario-tree.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scenario-tree/scenario-tree.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scenario-tree/scenario-tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scenario-tree/scenario-tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/schemabloc/schemabloc.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/schemabloc/schemabloc.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/schemabloc/schemabloc.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/schemabloc/schemabloc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scientific-interactions/scientific-interactions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scientific-interactions/scientific-interactions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/scientific-interactions/scientific-interactions.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/scientific-interactions/scientific-interactions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/segment-display/segment-display.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/segment-display/segment-display.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/segment-display/segment-display.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/segment-display/segment-display_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/seismic-focal-mechanism-in-3d-view/seismic-focal-mechanism-in-3d-view.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/seismic-focal-mechanism-in-3d-view/seismic-focal-mechanism-in-3d-view.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/seismic-focal-mechanism-in-3d-view/seismic-focal-mechanism-in-3d-view.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/seismic-focal-mechanism-in-3d-view/seismic-focal-mechanism-in-3d-view.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sequence-diagram/sequence-diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sequence-diagram/sequence-diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sequence-diagram/sequence-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sequence-diagram/sequence-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/servers/servers.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/set-operations-illustrated-with-venn-diagrams/set-operations-illustrated-with-venn-diagrams.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/set-operations-illustrated-with-venn-diagrams/set-operations-illustrated-with-venn-diagrams.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/set-operations-illustrated-with-venn-diagrams/set-operations-illustrated-with-venn-diagrams.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/set-operations-illustrated-with-venn-diagrams/set-operations-illustrated-with-venn-diagrams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/shake-rattle-pendulum/shake-rattle-pendulum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/shake-rattle-pendulum/shake-rattle-pendulum.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/shake-rattle-pendulum/shake-rattle-pendulum.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/shake-rattle-pendulum/shake-rattle-pendulum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/signpost/signpost.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/signpost/signpost.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/signpost/signpost.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/signpost/signpost.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/simple-flow-chart/simple-flow-chart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/simple-flow-chart/simple-flow-chart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/simple-flow-chart/simple-flow-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/simple-flow-chart/simple-flow-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/simulation-abstraction/simulation-abstraction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/simulation-abstraction/simulation-abstraction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/simulation-abstraction/simulation-abstraction.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/simulation-abstraction/simulation-abstraction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-bubbles/smart-bubbles.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-circle/smart-circle.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-circle/smart-circle.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-circle/smart-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-circle/smart-circle_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-constellation/smart-constellation.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-constellation/smart-constellation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-constellation/smart-constellation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-constellation/smart-constellation_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-description/smart-description.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-description/smart-description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-description/smart-description.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-description/smart-description_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-flowchart/smart-flowchart.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-flowchart/smart-flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-flowchart/smart-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-flowchart/smart-flowchart_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-priority/smart-priority.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-priority/smart-priority.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-priority/smart-priority.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/smart-priority/smart-priority_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sontrol-safety-system/sontrol-safety-system.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sontrol-safety-system/sontrol-safety-system.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/sontrol-safety-system/sontrol-safety-system.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/sontrol-safety-system/sontrol-safety-system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/spacetime/spacetime.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/spacetime/spacetime.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/spacetime/spacetime.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/spacetime/spacetime.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/swan-wave-model/swan-wave-model.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/swan-wave-model/swan-wave-model.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/swan-wave-model/swan-wave-model.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/swan-wave-model/swan-wave-model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/terminals/terminals.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/terminals/terminals.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/terminals/terminals.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/terminals/terminals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/text-fading/text-fading.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/text-fading/text-fading.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/text-fading/text-fading.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/text-fading/text-fading.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/text-shape/text-shape.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/text-shape/text-shape.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/text-shape/text-shape.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/text-shape/text-shape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/three-link-annotated/three-link-annotated.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/three-link-annotated/three-link-annotated.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/three-link-annotated/three-link-annotated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/three-link-annotated/three-link-annotated_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/throttle-valve/throttle-valve.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/throttle-valve/throttle-valve.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/throttle-valve/throttle-valve.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/throttle-valve/throttle-valve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tikz-listings/tikz-listings.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tikz-listings/tikz-listings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tikz-listings/tikz-listings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tikz-listings/tikz-listings_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tkz-orm-example/tkz-orm-example.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/tkz-orm-example/tkz-orm-example.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tkz-orm-example/tkz-orm-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/tkz-orm-example/tkz-orm-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic_temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/tree-pic/tree-pic_temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree/tree.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree/tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tree/tree_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/triangles/triangles.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/triangles/triangles.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/triangles/triangles.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/latex/triangles/triangles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/trigonometric-hexagon/trigonometric-hexagon.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/trigonometric-hexagon/trigonometric-hexagon.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/trigonometric-hexagon/trigonometric-hexagon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/trigonometric-hexagon/trigonometric-hexagon_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tutorial/tutorial.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tutorial/tutorial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tutorial/tutorial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/tutorial/tutorial_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/venn/venn.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/venn/venn.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/venn/venn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/venn/venn_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/wankel-motor/wankel-motor.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/wankel-motor/wankel-motor.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/wankel-motor/wankel-motor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latex/wankel-motor/wankel-motor_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tags.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tikzCrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/tikzCrawler.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +684,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hkust_latex$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1559639711326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hkust_latex$tikzCrawler.coverage" NAME="tikzCrawler Coverage Results" MODIFIED="1559643008149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hkust_latex$tikzCrawler.coverage" NAME="tikzCrawler Coverage Results" MODIFIED="1559646213533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+            <state relative-caret-position="223">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -41,8 +703,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/compiler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+            <state relative-caret-position="354">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding>
                 <element signature="e#85#112#0" expanded="true" />
               </folding>
@@ -50,23 +712,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tikzCrawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-              <folding>
-                <element signature="e#117#144#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/request.py">
+        <entry file="file://$PROJECT_DIR$/tikzCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="221" selection-start-line="221" selection-end-line="221" />
+            <state relative-caret-position="673">
+              <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+              <folding>
+                <element signature="e#117#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +740,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/converter.py" />
         <option value="$PROJECT_DIR$/compiler.py" />
-        <option value="$PROJECT_DIR$/crawler.py" />
         <option value="$PROJECT_DIR$/tikzCrawler.py" />
+        <option value="$PROJECT_DIR$/crawler.py" />
       </list>
     </option>
   </component>
@@ -215,23 +873,23 @@
       <workItem from="1559578858147" duration="1129000" />
       <workItem from="1559580061771" duration="3000" />
       <workItem from="1559580133278" duration="4043000" />
-      <workItem from="1559586036757" duration="20188000" />
+      <workItem from="1559586036757" duration="23324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25363000" />
+    <option name="totallyTimeSpent" value="28499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10436635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10436635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,7 +938,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tikzCrawler.py</url>
-          <line>32</line>
+          <line>36</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
@@ -377,42 +1035,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/tags.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        <state relative-caret-position="1194">
+          <caret line="214" column="16" selection-start-line="214" selection-start-column="16" selection-end-line="214" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler.py">
+    <entry file="file://$PROJECT_DIR$/data/tags.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        <state relative-caret-position="-122">
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tikzCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#117#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/compiler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="354">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding>
             <element signature="e#85#112#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tikzCrawler.py">
+    <entry file="file://$PROJECT_DIR$/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+        <state relative-caret-position="223">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
-            <element signature="e#117#144#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

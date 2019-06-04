@@ -1,0 +1,76 @@
+% Transversal loads
+% Author: Marco Castelli
+\documentclass[border=10pt]{standalone}
+\usepackage{siunitx}
+\usepackage{structuralanalysis}
+\renewcommand*{\familydefault}{\sfdefault}
+\begin{document}
+\begin{tikzpicture}[every node/.append style = {font=\sffamily}]
+	\point{a}{0}{2.4};
+	\point{b}{2}{2.4};
+	\point{c}{10}{2.4};
+	\point{d}{12}{2.4};
+	\point{e}{4}{0};
+	\point{f}{8}{0};
+	\beam{4}{a}{d}[0][0];
+	\beam{4}{b}{e}[1][1];
+	\beam{4}{e}{f}[1][1];
+	\beam{4}{f}{c}[1][1];
+	\point{asf1}{0.75}{2.6};
+	\point{asf2}{11.25}{2.6};
+	\point{asfT}{6}{2.4};
+	\lineload{1}{asf1}{asf2}[0.4][0.4];
+	\notation{1}{asfT}{Manto stradale}[above];
+	\point{cord1}{0}{2.6};
+	\point{cord2}{0.75}{2.6};
+	\point{cordT1}{0.375}{2.4};
+	\lineload{1}{cord1}{cord2}[0.4][0.4];
+	\notation{1}{cordT1}{Securvia}[above];
+	\point{cord3}{11.25}{2.6};
+	\point{cord4}{12}{2.6};
+	\point{cordT2}{11.655}{2.4};
+	\lineload{1}{cord3}{cord4}[0.4][0.4];
+	\notation{1}{cordT2}{Securvia}[above];
+	\point{L21}{1.5}{3.3};
+	\point{L22}{4.5}{3.3};
+	\point{L2T1}{1.5}{3.9};
+	\lineload{1}{L21}{L22}[0.6][0.6];
+	\notation{1}{L2T1}{$\SI{2.5}{\kN\per\square\m}$}[left];
+	\point{L23}{7.5}{3.3};
+	\point{L24}{10.5}{3.3};
+	\point{L2T2}{10.5}{3.9};
+	\lineload{1}{L23}{L24}[0.6][0.6];
+	\notation{1}{L2T2}{$\SI{2.5}{\kN\per\square\m}$}[right];
+	\point{L91}{4.5}{3.3};
+	\point{L92}{7.5}{3.3};
+	\point{L9T}{7.5}{5};
+	\lineload{1}{L91}{L92}[2.16][2.16];
+	\notation{1}{L9T}{$\SI{9}{\kN\per\square\m}$}[right];
+	\point{f1}{2}{5.76};
+	\point{f2}{4}{5.76};
+	\point{f3}{5}{5.76};
+	\point{f4}{7}{5.76};
+	\point{f5}{8}{5.76};
+	\point{f6}{10}{5.76};
+	\point{f7}{0.375}{5.76};
+	\point{f8}{11.625}{5.76};
+	\point{f1T}{3}{6.56};
+	\point{f2T}{6}{6.56};
+	\point{f3T}{9}{6.56};
+	\point{f4T}{0.375}{6.56};
+	\point{f5T}{11.625}{6.56};
+	\load{1}{f1}[90][1][0.3];
+	\load{1}{f2}[90][1][0.3];
+	\load{1}{f3}[90][1][0.3];
+	\load{1}{f4}[90][1][0.3];
+	\load{1}{f5}[90][1][0.3];
+	\load{1}{f6}[90][1][0.3];
+	\load{1}{f7}[90][1][0.3];
+	\load{1}{f8}[90][1][0.3];
+	\notation{1}{f1T}{$\num{2}\times\SI{100}{\kN}$}[];
+	\notation{1}{f2T}{$\num{2}\times\SI{150}{\kN}$}[];
+	\notation{1}{f3T}{$\num{2}\times\SI{50}{\kN}$}[];
+	\notation{1}{f4T}{$\SI{1.5}{\kN}$}[left];
+	\notation{1}{f5T}{$\SI{1.5}{\kN}$}[right];
+\end{tikzpicture}
+\end{document}

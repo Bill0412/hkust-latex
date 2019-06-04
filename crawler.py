@@ -12,6 +12,13 @@ class Crawler:
         self.base_path = base_path
         self.compiler = Compiler()
 
+        self._init_log_file()
+
+    def _init_log_file(self):
+        with open('data/log.txt', 'w') as out:
+            out.write('\n')
+            out.close()
+
     def crawl_html(self, uri=None):
         if uri == None:
             uri = self.uri
@@ -36,16 +43,14 @@ class Crawler:
             out.close()
 
         # save latex tags
-        try:
-            for tag in tags:
-                if tag not in tags_dict:
-                    tags_dict[tag] = list()
-                tags_dict[tag].append(slugname)
-            with open('data/tags.json', 'w') as out:
-                json.dump(tags_dict, out)
-                out.close()
-        except Exception as e:
-            print(e)
+
+        for tag in tags:
+            if tag not in tags_dict:
+                tags_dict[tag] = list()
+            tags_dict[tag].append(slugname)
+        with open('data/tags.json', 'w') as out:
+            json.dump(tags_dict, out)
+            out.close()
 
     # this functions crawls a single page LaTex file.
     # uri: the uri of the page that contains latex
@@ -68,9 +73,10 @@ class Crawler:
             latex_tags.append(li.text)
 
         # get file name from the uri
-        print(uri)
         fileslug = uri.rsplit('/')[-2]
-        print(fileslug)
+        self.write_log(uri)
+        self.write_log(fileslug)
+
         target_path = self.base_path + 'latex/{0}'.format(fileslug)
         if not os.path.exists(target_path):
             os.mkdir(target_path)
@@ -79,11 +85,14 @@ class Crawler:
         try:
             self.compiler.compile(fileslug)
         except Exception as e:
-            print(e)
+            self.write_log(str(e))
 
 
-
-
+    def write_log(self, info):
+        with open('data/log.txt', 'a') as out:
+            out.write(info)
+            print(info)
+            out.write('\n')
 
     def block_test(self):
         # crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/city/', 'city')
