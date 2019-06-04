@@ -3,7 +3,7 @@
 from latex import build_pdf
 from wand.image import Image
 from pdf2image import convert_from_path
-
+import os
 # TODO: 1. Fix the trim issue; 2. Fix the compiler error; 3. Multi-page pdf support
 
 class Compiler:
@@ -27,6 +27,10 @@ class Compiler:
         with Image(filename=base_filename + '_temp.png') as i:
             i.trim()
             i.save(filename=base_filename + '.png')
+            # for web hosting
+            if not os.path.exists('static'):
+                os.mkdir('static')
+            i.save(filename='static/{}.png'.format(fileslug))
 
 
 if __name__ == '__main__':

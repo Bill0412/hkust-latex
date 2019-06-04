@@ -1,6 +1,7 @@
 from flask import Flask, render_template
 import json
 from slugify import slugify
+import os
 
 app = Flask(__name__)
 
@@ -21,7 +22,13 @@ def index():
 
 @app.route('/<slug_tag>')
 def category(slug_tag):
-    return render_template('category.html', items=tags[unslug[slug_tag]])
+    items = tags[unslug[slug_tag]]
+    # make sure that the image exists
+    for item in items:
+        if not os.path.exists('static/{}.png'.format(item)):
+            items.remove(item)
+            print(item)
+    return render_template('category.html', items=items, title=unslug[slug_tag])
 
 
 if __name__ == '__main__':

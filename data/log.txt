@@ -1,14 +1,14 @@
 
 http://www.texample.net//tikz/examples/smart-bubbles/
 smart-bubbles
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vb845et/tmpxtehm9m4.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8kuzpbx9/tmp5aa995ra.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vb845et/tmpxtehm9m4.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8kuzpbx9/tmp5aa995ra.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -601,7 +601,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vb845et/tmpxtehm9m4.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8kuzpbx9/tmp5aa995ra.latex:
 8: Emergency stop.
 <read *> 
          
@@ -610,25 +610,25 @@ l.8 \begin
 Here is how much of TeX's memory you used:
  22498 strings out of 492616
  462952 string characters out of 6129482
- 491247 words of memory out of 5000000
+ 491245 words of memory out of 5000000
  26170 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,74p,908b,674s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vb845et/tmpxtehm9m4.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8kuzpbx9/tmp5aa995ra.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/servers/
 servers
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwxe8y8vz/tmp2ezszw_3.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnsznaufb/tmpg4y6o9by.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwxe8y8vz/tmp2ezszw_3.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnsznaufb/tmpg4y6o9by.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -690,7 +690,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwxe8y8vz/tmp2ezszw_3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnsznaufb/tmpg4y6o9by.latex:
 7: Emergency stop.
 <read *> 
          
@@ -705,19 +705,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,0n,56p,280b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwxe8y8vz/tmp2ezszw_3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnsznaufb/tmpg4y6o9by.latex:
 7:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/assignment-structure/
 assignment-structure
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqcmeh_9q/tmpa_fw5be5.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpby83h61u/tmpnudhlrb8.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqcmeh_9q/tmpa_fw5be5.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpby83h61u/tmpnudhlrb8.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/minimal.cls
 Document Class: minimal 2001/05/25 Standard LaTeX minimal class
@@ -1148,8 +1148,8 @@ File: pgflibraryshapes.multipart.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarymatrix.code.tex
 File: tikzlibrarymatrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmpa_fw5be5.aux)
-\openout1 = `tmpa_fw5be5.aux'.
+) (./tmpnudhlrb8.aux)
+\openout1 = `tmpnudhlrb8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
@@ -1179,7 +1179,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks28
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqcmeh_9q/tmpa_fw5be5.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpby83h61u/tmpnudhlrb8.latex:
 55: Package inputenc Error: Unicode character Â¦ (U+00A6)
 (inputenc)                not set up for use with LaTeX.
 
@@ -1192,25 +1192,25 @@ l.55 ...ktchain, join,] (makro) {InvesteringsmÃÂ¦
 Here is how much of TeX's memory you used:
  14185 strings out of 492616
  325783 string characters out of 6129482
- 375744 words of memory out of 5000000
+ 375742 words of memory out of 5000000
  17875 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,71p,526b,853s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqcmeh_9q/tmpa_fw5be5.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpby83h61u/tmpnudhlrb8.latex:
 55:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/BER-measurement/
 BER-measurement
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm65_9vk_/tmp9pc3hoip.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqsrdkj04/tmpvufvugvt.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm65_9vk_/tmp9pc3hoip.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqsrdkj04/tmpvufvugvt.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/minimal.cls
 Document Class: minimal 2001/05/25 Standard LaTeX minimal class
@@ -1607,8 +1607,8 @@ File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryfit.code.tex
 File: tikzlibraryfit.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmp9pc3hoip.aux)
-\openout1 = `tmp9pc3hoip.aux'.
+) (./tmpvufvugvt.aux)
+\openout1 = `tmpvufvugvt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -1672,7 +1672,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks29
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm65_9vk_/tmp9pc3hoip.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqsrdkj04/tmpvufvugvt.latex:
 124: Package pgf Error: No shape named chain-2 is known.
 
 See the pgf package documentation for explanation.
@@ -1684,25 +1684,25 @@ l.124     \chainin (m-2-2);
 Here is how much of TeX's memory you used:
  13496 strings out of 492616
  293825 string characters out of 6129482
- 344969 words of memory out of 5000000
+ 344967 words of memory out of 5000000
  17202 multiletter control sequences out of 15000+600000
  4239 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,14n,69p,527b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm65_9vk_/tmp9pc3hoip.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqsrdkj04/tmpvufvugvt.latex:
 124:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/bode-plot/
 bode-plot
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_jshqqaj/tmpb1kwgahv.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpd756tncl/tmpeupklm1k.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_jshqqaj/tmpb1kwgahv.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpd756tncl/tmpeupklm1k.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -2228,8 +2228,8 @@ File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmpb1kwgahv.aux)
-\openout1 = `tmpb1kwgahv.aux'.
+) (./tmpeupklm1k.aux)
+\openout1 = `tmpeupklm1k.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -2270,15 +2270,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_jshqqaj/tmpb1kwgahv.latex:
-38: I can't write on file `gnuplot/tmpb1kwgahv/1.gnuplot'.
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpd756tncl/tmpeupklm1k.latex:
+38: I can't write on file `gnuplot/tmpeupklm1k/1.gnuplot'.
 <to be read again> 
                    \relax 
 l.38 ...]{-1:1.35}{\POAmpAsymp{4}{2.0}+\IntAmp{1}}
                                                   
 (Press Enter to retry, or Control-D to exit; default file extension is `.tex')
 Please type another output file name
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_jshqqaj/tmpb1kwgahv.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpd756tncl/tmpeupklm1k.latex:
 38: Emergency stop.
 <to be read again> 
                    \relax 
@@ -2287,25 +2287,25 @@ l.38 ...]{-1:1.35}{\POAmpAsymp{4}{2.0}+\IntAmp{1}}
 Here is how much of TeX's memory you used:
  16163 strings out of 492616
  350993 string characters out of 6129482
- 457267 words of memory out of 5000000
+ 457265 words of memory out of 5000000
  19803 multiletter control sequences out of 15000+600000
  4285 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,71p,5188b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_jshqqaj/tmpb1kwgahv.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpd756tncl/tmpeupklm1k.latex:
 38:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/bond-graph/
 bond-graph
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv7jg9o3c/tmppkfrpxd9.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vliu2e8/tmpizz0w3a7.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv7jg9o3c/tmppkfrpxd9.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vliu2e8/tmpizz0w3a7.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -2638,7 +2638,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv7jg9o3c/tmppkfrpxd9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vliu2e8/tmpizz0w3a7.latex:
 6: Emergency stop.
 <read *> 
          
@@ -2647,25 +2647,25 @@ l.6 \begin
 Here is how much of TeX's memory you used:
  10708 strings out of 492616
  224195 string characters out of 6129482
- 257479 words of memory out of 5000000
+ 257477 words of memory out of 5000000
  14481 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,479b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv7jg9o3c/tmppkfrpxd9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7vliu2e8/tmpizz0w3a7.latex:
 6:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/circuitikz/
 circuitikz
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbywlsfa9/tmpjvovijms.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphmflwr3n/tmpc44f2fzp.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbywlsfa9/tmpjvovijms.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphmflwr3n/tmpc44f2fzp.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -3038,7 +3038,7 @@ l.318 \ProcessOptions\relax
 Here is how much of TeX's memory you used:
  16698 strings out of 492616
  410195 string characters out of 6129482
- 531543 words of memory out of 5000000
+ 531541 words of memory out of 5000000
  20427 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3049,17 +3049,17 @@ Here is how much of TeX's memory you used:
 
 http://www.texample.net//tikz/examples/circumscribed-polygons-and-circles/
 circumscribed-polygons-and-circles
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmps18azskk/tmplkxr7n6m.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmparsqg3ej/tmpggimbfpf.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmps18azskk/tmplkxr7n6m.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmparsqg3ej/tmpggimbfpf.latex
 LaTeX2e <2018-12-01>
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmps18azskk/tmplkxr7n6m.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmparsqg3ej/tmpggimbfpf.latex:
 8: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -3077,19 +3077,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,4p,156b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmps18azskk/tmplkxr7n6m.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmparsqg3ej/tmpggimbfpf.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/connecting-text-and-graphics/
 connecting-text-and-graphics
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpms4qjqe_/tmprf6swtrm.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoo_n9i4h/tmptqu7qusw.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpms4qjqe_/tmprf6swtrm.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoo_n9i4h/tmptqu7qusw.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -3852,8 +3852,8 @@ s/tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgf@layerbox@background=\box79
 \pgf@layerboxsaved@background=\box80
-) (./tmprf6swtrm.aux)
-\openout1 = `tmprf6swtrm.aux'.
+) (./tmptqu7qusw.aux)
+\openout1 = `tmptqu7qusw.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -3930,7 +3930,7 @@ LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
 \@outlinefile=\write5
-\openout5 = `tmprf6swtrm.out'.
+\openout5 = `tmptqu7qusw.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 9.
@@ -4009,7 +4009,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-No file tmprf6swtrm.nav.
+No file tmptqu7qusw.nav.
 LaTeX Font Info:    Try loading font information for U+msa on input line 61.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -4026,7 +4026,7 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpms4qjqe_/tmprf6swtrm.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoo_n9i4h/tmptqu7qusw.latex:
 61: LaTeX Error: File `img/daniells-pile' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -4038,25 +4038,25 @@ l.61 \end{frame}
 Here is how much of TeX's memory you used:
  22154 strings out of 492616
  460199 string characters out of 6129482
- 553729 words of memory out of 5000000
+ 553727 words of memory out of 5000000
  25600 multiletter control sequences out of 15000+600000
  9783 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,9n,67p,858b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpms4qjqe_/tmprf6swtrm.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoo_n9i4h/tmptqu7qusw.latex:
 61:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/fir-filter/
 fir-filter
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp11sfd7a1/tmpvfx96fii.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp38fojz1e/tmpt7wwypw5.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp11sfd7a1/tmpvfx96fii.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp38fojz1e/tmpt7wwypw5.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -4383,7 +4383,7 @@ s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp11sfd7a1/tmpvfx96fii.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp38fojz1e/tmpt7wwypw5.latex:
 5: Package tikz Error: I did not find the tikz library 'dsp'. I looked for file
 s named tikzlibrarydsp.code.tex and pgflibrarydsp.code.tex, but neither could b
 e found in the current texmf trees..
@@ -4397,25 +4397,25 @@ l.5 \usetikzlibrary{dsp,chains}
 Here is how much of TeX's memory you used:
  10711 strings out of 492616
  224562 string characters out of 6129482
- 257479 words of memory out of 5000000
+ 257477 words of memory out of 5000000
  14482 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,482b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp11sfd7a1/tmpvfx96fii.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp38fojz1e/tmpt7wwypw5.latex:
 5:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/drawing-graphs/
 drawing-graphs
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm6spkqsy/tmprh6_0bjq.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0njiuus4/tmphgt870vf.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm6spkqsy/tmprh6_0bjq.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0njiuus4/tmphgt870vf.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -4791,7 +4791,7 @@ l.22 ...n LuaTeX to use the graph drawing library}
 Here is how much of TeX's memory you used:
  11189 strings out of 492616
  233775 string characters out of 6129482
- 267261 words of memory out of 5000000
+ 267259 words of memory out of 5000000
  14926 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4803,14 +4803,14 @@ raphdrawing.code.tex:22:  ==> Fatal error occurred, no output PDF file produced
 
 http://www.texample.net//tikz/examples/circuit-decorations/
 circuit-decorations
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw7fgu4gx/tmpscjcqc4t.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxhu9zrn2/tmp77jddij_.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw7fgu4gx/tmpscjcqc4t.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxhu9zrn2/tmp77jddij_.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -4836,7 +4836,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw7fgu4gx/tmpscjcqc4t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxhu9zrn2/tmp77jddij_.latex:
 6: Emergency stop.
 <read *> 
          
@@ -4851,19 +4851,19 @@ Here is how much of TeX's memory you used:
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,0n,17p,182b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw7fgu4gx/tmpscjcqc4t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxhu9zrn2/tmp77jddij_.latex:
 6:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/enderman/
 enderman
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0qdumi_p/tmpv3qtc4l_.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmptpp5ggo3/tmpg0aohpfl.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0qdumi_p/tmpv3qtc4l_.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmptpp5ggo3/tmpg0aohpfl.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -5232,7 +5232,7 @@ l.51     to prevent additional errors.}
 Here is how much of TeX's memory you used:
  11180 strings out of 492616
  233183 string characters out of 6129482
- 267119 words of memory out of 5000000
+ 267117 words of memory out of 5000000
  14920 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5243,14 +5243,14 @@ tal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/entity-relationship-diagram/
 entity-relationship-diagram
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm_43fpen/tmpf3o18r6f.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpooohxa7t/tmpf6zw456i.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm_43fpen/tmpf3o18r6f.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpooohxa7t/tmpf6zw456i.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -5316,7 +5316,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm_43fpen/tmpf3o18r6f.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpooohxa7t/tmpf6zw456i.latex:
 11: Emergency stop.
 <read *> 
          
@@ -5331,19 +5331,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  25i,0n,19p,251b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm_43fpen/tmpf3o18r6f.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpooohxa7t/tmpf6zw456i.latex:
 11:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/fancy-chapter-headings/
 fancy-chapter-headings
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw8f7zzpi/tmpb_zlt3x9.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfhsj714l/tmpjrzakzqk.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw8f7zzpi/tmpb_zlt3x9.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfhsj714l/tmpjrzakzqk.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
@@ -6162,7 +6162,7 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthfirst=\dimen164
 )
 Runaway argument?
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw8f7zzpi/tmpb_zlt3x9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfhsj714l/tmpjrzakzqk.latex:
 12: Paragraph ended before \ttl@format@ii was complete.
 <to be read again> 
                    \par 
@@ -6171,25 +6171,25 @@ l.12
 Here is how much of TeX's memory you used:
  13089 strings out of 492616
  252597 string characters out of 6129482
- 288139 words of memory out of 5000000
+ 288137 words of memory out of 5000000
  16828 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,475b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpw8f7zzpi/tmpb_zlt3x9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfhsj714l/tmpjrzakzqk.latex:
 12:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/colorful-tables/
 colorful-tables
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr4xbmtsq/tmpi6lqkw1e.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ppss7ls/tmpq93vou94.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr4xbmtsq/tmpi6lqkw1e.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ppss7ls/tmpq93vou94.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -6870,8 +6870,8 @@ File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarymatrix.code.tex
 File: tikzlibrarymatrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmpi6lqkw1e.aux)
-\openout1 = `tmpi6lqkw1e.aux'.
+) (./tmpq93vou94.aux)
+\openout1 = `tmpq93vou94.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -6948,7 +6948,7 @@ LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write5
-\openout5 = `tmpi6lqkw1e.out'.
+\openout5 = `tmpq93vou94.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 32.
@@ -7027,9 +7027,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-No file tmpi6lqkw1e.nav.
+No file tmpq93vou94.nav.
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr4xbmtsq/tmpi6lqkw1e.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ppss7ls/tmpq93vou94.latex:
 34: Package keyval Error: bg undefined.
 
 See the keyval package documentation for explanation.
@@ -7041,25 +7041,25 @@ l.34 \begin
 Here is how much of TeX's memory you used:
  19763 strings out of 492616
  389703 string characters out of 6129482
- 470681 words of memory out of 5000000
+ 470679 words of memory out of 5000000
  23289 multiletter control sequences out of 15000+600000
  4545 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,4n,55p,897b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr4xbmtsq/tmpi6lqkw1e.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ppss7ls/tmpq93vou94.latex:
 34:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/FIR-filter/
 FIR-filter
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0dmm3nro/tmpmrxlafvc.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2hdpecc/tmpt05x7psz.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0dmm3nro/tmpmrxlafvc.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2hdpecc/tmpt05x7psz.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -7085,7 +7085,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0dmm3nro/tmpmrxlafvc.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2hdpecc/tmpt05x7psz.latex:
 8: Emergency stop.
 <read *> 
          
@@ -7100,19 +7100,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  23i,0n,17p,212b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0dmm3nro/tmpmrxlafvc.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2hdpecc/tmpt05x7psz.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/flowchart/
 flowchart
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy9hz0tgl/tmp01r6_5u1.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpefv3_bt2/tmpariqf05_.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy9hz0tgl/tmp01r6_5u1.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpefv3_bt2/tmpariqf05_.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -7482,7 +7482,7 @@ File: tikzlibrarybackgrounds.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgf@layerboxsaved@background=\box40
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy9hz0tgl/tmp01r6_5u1.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpefv3_bt2/tmpariqf05_.latex:
 5: Package tikz Error: I did not find the tikz library 'positioning-plus'. I lo
 oked for files named tikzlibrarypositioning-plus.code.tex and pgflibrarypositio
 ning-plus.code.tex, but neither could be found in the current texmf trees..
@@ -7496,25 +7496,25 @@ l.5   positioning-plus,node-families,calc}
 Here is how much of TeX's memory you used:
  11769 strings out of 492616
  248505 string characters out of 6129482
- 290304 words of memory out of 5000000
+ 290302 words of memory out of 5000000
  15501 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,0n,56p,504b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy9hz0tgl/tmp01r6_5u1.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpefv3_bt2/tmpariqf05_.latex:
 5:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/gnuplot-tikz-terminal/
 gnuplot-tikz-terminal
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8we6cpix/tmpjxbqgwri.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp168i185v/tmpjwmmatgz.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8we6cpix/tmpjxbqgwri.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp168i185v/tmpjwmmatgz.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -7540,7 +7540,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8we6cpix/tmpjxbqgwri.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp168i185v/tmpjwmmatgz.latex:
 7: Emergency stop.
 <read *> 
          
@@ -7555,19 +7555,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  23i,0n,17p,182b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8we6cpix/tmpjxbqgwri.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp168i185v/tmpjwmmatgz.latex:
 7:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/hsv-shading/
 hsv-shading
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprn6lsirx/tmptwy4oj73.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfvybfcqr/tmpbr7oheal.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprn6lsirx/tmptwy4oj73.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfvybfcqr/tmpbr7oheal.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -7892,8 +7892,8 @@ File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
-))) (./tmptwy4oj73.aux)
-\openout1 = `tmptwy4oj73.aux'.
+))) (./tmpbr7oheal.aux)
+\openout1 = `tmpbr7oheal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -7923,7 +7923,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks28
 )
 Runaway argument?
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprn6lsirx/tmptwy4oj73.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfvybfcqr/tmpbr7oheal.latex:
 10: Paragraph ended before \pgf@declarefunctionalshading was complete.
 <to be read again> 
                    \par 
@@ -7932,25 +7932,25 @@ l.10
 Here is how much of TeX's memory you used:
  11005 strings out of 492616
  228171 string characters out of 6129482
- 259657 words of memory out of 5000000
+ 259655 words of memory out of 5000000
  14772 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,455b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprn6lsirx/tmptwy4oj73.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfvybfcqr/tmpbr7oheal.latex:
 10:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/intersecting-arcs/
 intersecting-arcs
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpa1t75roi/tmp9terbwj1.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpaepnqw99/tmp9n1usj93.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpa1t75roi/tmp9terbwj1.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpaepnqw99/tmp9n1usj93.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -8283,7 +8283,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpa1t75roi/tmp9terbwj1.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpaepnqw99/tmp9n1usj93.latex:
 5: Emergency stop.
 <read *> 
          
@@ -8292,25 +8292,25 @@ l.5 ^^M
 Here is how much of TeX's memory you used:
  10708 strings out of 492616
  224175 string characters out of 6129482
- 257495 words of memory out of 5000000
+ 257493 words of memory out of 5000000
  14481 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,455b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpa1t75roi/tmp9terbwj1.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpaepnqw99/tmp9n1usj93.latex:
 5:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/lambert-beer-law/
 lambert-beer-law
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwh2hojw6/tmp_0fxm4j6.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi2y93kb7/tmpf7d3atww.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwh2hojw6/tmp_0fxm4j6.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi2y93kb7/tmpf7d3atww.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -8749,8 +8749,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks32
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-) (./tmp_0fxm4j6.aux)
-\openout1 = `tmp_0fxm4j6.aux'.
+) (./tmpf7d3atww.aux)
+\openout1 = `tmpf7d3atww.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
@@ -8779,7 +8779,7 @@ ontext/base/mkii/supp-pdf.mkii
 \makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks34
 )
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwh2hojw6/tmp_0fxm4j6.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi2y93kb7/tmpf7d3atww.latex:
 115: Undefined control sequence.
 \pr #1->\directlua 
                    {tex.print(#1)}
@@ -8788,27 +8788,27 @@ l.115 }
 Here is how much of TeX's memory you used:
  13074 strings out of 492616
  274457 string characters out of 6129482
- 297936 words of memory out of 5000000
+ 297934 words of memory out of 5000000
  16772 multiletter control sequences out of 15000+600000
  4094 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,7n,69p,505b,937s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwh2hojw6/tmp_0fxm4j6.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi2y93kb7/tmpf7d3atww.latex:
 115:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/logic-circuits-library/
 logic-circuits-library
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpcees4dfn/tmpyrvk2zft.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb6i5g2uo/tmpg7h9xn6g.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpcees4dfn/tmpyrvk2zft.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb6i5g2uo/tmpg7h9xn6g.latex
 LaTeX2e <2018-12-01>
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpcees4dfn/tmpyrvk2zft.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb6i5g2uo/tmpg7h9xn6g.latex:
 1: Undefined control sequence.
 l.1 \usetikzlibrary
                    {circuits} 
@@ -8821,19 +8821,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,1p,106b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpcees4dfn/tmpyrvk2zft.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb6i5g2uo/tmpg7h9xn6g.latex:
 1:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/matrix-multiplication/
 matrix-multiplication
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqv_jir94/tmpv19hx5kr.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4ac5mykm/tmpzlcjwl62.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqv_jir94/tmpv19hx5kr.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4ac5mykm/tmpzlcjwl62.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -9459,8 +9459,8 @@ s.code.tex
 \tikz@lib@dec@box=\box38
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.pathmorphing.code.tex)) (./tmpv19hx5kr.aux)
-\openout1 = `tmpv19hx5kr.aux'.
+brarydecorations.pathmorphing.code.tex)) (./tmpzlcjwl62.aux)
+\openout1 = `tmpzlcjwl62.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -9534,7 +9534,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 27.
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqv_jir94/tmpv19hx5kr.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4ac5mykm/tmpzlcjwl62.latex:
 66: Package pgf Error: No shape named A-2-1 is known.
 
 See the pgf package documentation for explanation.
@@ -9546,28 +9546,28 @@ l.66 \draw[blue] (A-2-1.north)
 Here is how much of TeX's memory you used:
  13559 strings out of 492616
  282827 string characters out of 6129482
- 304336 words of memory out of 5000000
+ 304334 words of memory out of 5000000
  17252 multiletter control sequences out of 15000+600000
  25994 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,15n,76p,510b,978s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqv_jir94/tmpv19hx5kr.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4ac5mykm/tmpzlcjwl62.latex:
 66:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/myncbar/
 myncbar
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4fdd53tt/tmpykw4i6lw.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpe5wgjdr8/tmpwt_pevzm.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4fdd53tt/tmpykw4i6lw.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpe5wgjdr8/tmpwt_pevzm.latex
 LaTeX2e <2018-12-01>
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4fdd53tt/tmpykw4i6lw.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpe5wgjdr8/tmpwt_pevzm.latex:
 1: LaTeX Error: Environment tikzpicture undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -9585,19 +9585,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,4p,112b,16s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4fdd53tt/tmpykw4i6lw.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpe5wgjdr8/tmpwt_pevzm.latex:
 1:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/mindmap/
 mindmap
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0awuaqer/tmpsupu3yka.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp69ahdyiw/tmpibeqhzpi.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0awuaqer/tmpsupu3yka.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp69ahdyiw/tmpibeqhzpi.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -10007,7 +10007,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0awuaqer/tmpsupu3yka.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp69ahdyiw/tmpibeqhzpi.latex:
 10: Emergency stop.
 <read *> 
          
@@ -10016,25 +10016,25 @@ l.10 \begin
 Here is how much of TeX's memory you used:
  12210 strings out of 492616
  257148 string characters out of 6129482
- 298198 words of memory out of 5000000
+ 298196 words of memory out of 5000000
  15931 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,65p,479b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0awuaqer/tmpsupu3yka.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp69ahdyiw/tmpibeqhzpi.latex:
 10:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/minimum-shift-keying-modulator/
 minimum-shift-keying-modulator
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphtdae5e9/tmpgtsyvh22.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfunif3i6/tmpoonfnkha.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphtdae5e9/tmpgtsyvh22.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfunif3i6/tmpoonfnkha.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -10060,7 +10060,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphtdae5e9/tmpgtsyvh22.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfunif3i6/tmpoonfnkha.latex:
 8: Emergency stop.
 <read *> 
          
@@ -10075,19 +10075,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  23i,0n,17p,212b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphtdae5e9/tmpgtsyvh22.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfunif3i6/tmpoonfnkha.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/manet/
 manet
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ifuo0ha/tmpwj_j_wjp.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1i5zimxp/tmpn9ymaz0t.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ifuo0ha/tmpwj_j_wjp.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1i5zimxp/tmpn9ymaz0t.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -10444,8 +10444,8 @@ File: tikzlibrarypetri.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
 \imagewidth=\skip43
 \imagescale=\skip44
-(./tmpwj_j_wjp.aux)
-\openout1 = `tmpwj_j_wjp.aux'.
+(./tmpn9ymaz0t.aux)
+\openout1 = `tmpn9ymaz0t.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -10475,7 +10475,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks28
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ifuo0ha/tmpwj_j_wjp.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1i5zimxp/tmpn9ymaz0t.latex:
 34: Package pgfkeys Error: Choice 'ball' unknown in choice key '/tikz/shade'. I
  am going to ignore this key.
 
@@ -10488,28 +10488,28 @@ l.34 ...noten0) [knoten, ball color=blue!60!black]
 Here is how much of TeX's memory you used:
  11732 strings out of 492616
  249137 string characters out of 6129482
- 273815 words of memory out of 5000000
+ 273813 words of memory out of 5000000
  15476 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,1n,79p,471b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7ifuo0ha/tmpwj_j_wjp.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1i5zimxp/tmpn9ymaz0t.latex:
 34:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/modifying-current-page-node/
 modifying-current-page-node
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp__feqsrv/tmp5uh_pm0t.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpvub3mzgb/tmpd3nqep6d.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp__feqsrv/tmp5uh_pm0t.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpvub3mzgb/tmpd3nqep6d.latex
 LaTeX2e <2018-12-01>
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp__feqsrv/tmp5uh_pm0t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpvub3mzgb/tmpd3nqep6d.latex:
 1: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -10527,19 +10527,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,4p,84b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp__feqsrv/tmp5uh_pm0t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpvub3mzgb/tmpd3nqep6d.latex:
 1:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/morleys-triangle/
 morleys-triangle
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8d028bqd/tmp2ybxkskr.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4dk1uzfr/tmpn2utjlnl.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8d028bqd/tmp2ybxkskr.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4dk1uzfr/tmpn2utjlnl.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -10872,7 +10872,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8d028bqd/tmp2ybxkskr.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4dk1uzfr/tmpn2utjlnl.latex:
 9: Emergency stop.
 <read *> 
          
@@ -10881,25 +10881,25 @@ l.9 \usetikzlibrary
 Here is how much of TeX's memory you used:
  10708 strings out of 492616
  224175 string characters out of 6129482
- 257495 words of memory out of 5000000
+ 257493 words of memory out of 5000000
  14481 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,490b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp8d028bqd/tmp2ybxkskr.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4dk1uzfr/tmpn2utjlnl.latex:
 9:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/nine-points-circle-of-a-triangle/
 nine-points-circle-of-a-triangle
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpg0p91tih/tmpa0hxy_6k.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpletapyv6/tmpblpvki5j.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpg0p91tih/tmpa0hxy_6k.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpletapyv6/tmpblpvki5j.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -11232,7 +11232,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpg0p91tih/tmpa0hxy_6k.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpletapyv6/tmpblpvki5j.latex:
 20: Emergency stop.
 <read *> 
          
@@ -11241,25 +11241,25 @@ l.20 \usetikzlibrary
 Here is how much of TeX's memory you used:
  10708 strings out of 492616
  224175 string characters out of 6129482
- 257495 words of memory out of 5000000
+ 257493 words of memory out of 5000000
  14481 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,498b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpg0p91tih/tmpa0hxy_6k.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpletapyv6/tmpblpvki5j.latex:
 20:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/oxidation-and-reduction/
 oxidation-and-reduction
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0isyx2l_/tmp9rzfwnm3.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpicr22g8j/tmpj39eqogy.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0isyx2l_/tmp9rzfwnm3.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpicr22g8j/tmpj39eqogy.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -11840,8 +11840,8 @@ stry (CN)
 \mhchem@option@minusmathsidebearingright=\dimen195
 \mhchem@option@minustextsidebearingleft=\dimen196
 \mhchem@option@minustextsidebearingright=\dimen197
-) (./tmp9rzfwnm3.aux)
-\openout1 = `tmp9rzfwnm3.aux'.
+) (./tmpj39eqogy.aux)
+\openout1 = `tmpj39eqogy.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -11882,7 +11882,7 @@ File: pgflibraryarrows.meta.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfarrowwidth=\dimen258
 \pgfarrowlinewidth=\dimen259
 )
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0isyx2l_/tmp9rzfwnm3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpicr22g8j/tmpj39eqogy.latex:
 35: Missing $ inserted.
 <inserted text> 
                 $
@@ -11891,27 +11891,27 @@ l.35 ...l -> {\ccoord{b}} Na+  + {\bcoord{d}} Cl-}
 Here is how much of TeX's memory you used:
  22473 strings out of 492616
  455105 string characters out of 6129482
- 473535 words of memory out of 5000000
+ 473533 words of memory out of 5000000
  26185 multiletter control sequences out of 15000+600000
  532792 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,65p,496b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp0isyx2l_/tmp9rzfwnm3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpicr22g8j/tmpj39eqogy.latex:
 35:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/pgf-version-118/
 pgf-version-118
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpzpxv3kau/tmprg7nzjtt.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpj3fo8wga/tmpo2ruvvl0.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpzpxv3kau/tmprg7nzjtt.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpj3fo8wga/tmpo2ruvvl0.latex
 LaTeX2e <2018-12-01>
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpzpxv3kau/tmprg7nzjtt.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpj3fo8wga/tmpo2ruvvl0.latex:
 1: Undefined control sequence.
 l.1 \node
           at (2*0.5,{2*sin(10)}) {$\gamma$}; 
@@ -11924,19 +11924,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,1p,121b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpzpxv3kau/tmprg7nzjtt.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpj3fo8wga/tmpo2ruvvl0.latex:
 1:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/periodic-table-of-chemical-elements/
 periodic-table-of-chemical-elements
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphrir1efm/tmpy6kcygth.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7hl_px6t/tmplmd0jd6i.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphrir1efm/tmpy6kcygth.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7hl_px6t/tmplmd0jd6i.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -12345,8 +12345,8 @@ File: pgflibraryshapes.multipart.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmpy6kcygth.aux)
-\openout1 = `tmpy6kcygth.aux'.
+) (./tmplmd0jd6i.aux)
+\openout1 = `tmplmd0jd6i.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -12390,7 +12390,7 @@ Overfull \hbox (315.4194pt too wide) in paragraph at lines 346--347
 [][] 
  []
 
-(./tmpy6kcygth.aux)
+(./tmplmd0jd6i.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -12398,7 +12398,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  14250 strings out of 492616
  304238 string characters out of 6129482
- 467104 words of memory out of 5000000
+ 467102 words of memory out of 5000000
  17951 multiletter control sequences out of 15000+600000
  5439 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -12414,14 +12414,14 @@ PDF statistics:
 
 http://www.texample.net//tikz/examples/periodic-boundaries-conditions/
 periodic-boundaries-conditions
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbilo1j7c/tmp_ffsxjq2.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy7cjjr37/tmp0hfg3qrs.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbilo1j7c/tmp_ffsxjq2.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy7cjjr37/tmp0hfg3qrs.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -12850,8 +12850,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
-) (./tmp_ffsxjq2.aux)
-\openout1 = `tmp_ffsxjq2.aux'.
+) (./tmp0hfg3qrs.aux)
+\openout1 = `tmp0hfg3qrs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -12894,10 +12894,10 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
-\openout4 = `tmp_ffsxjq2.out'.
+\openout4 = `tmp0hfg3qrs.out'.
 
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbilo1j7c/tmp_ffsxjq2.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy7cjjr37/tmp0hfg3qrs.latex:
 30: LaTeX Error: File `img/wat' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -12909,25 +12909,25 @@ l.30 ...e {\includegraphics[width=0.75cm]{img/wat}
 Here is how much of TeX's memory you used:
  14955 strings out of 492616
  288896 string characters out of 6129482
- 348190 words of memory out of 5000000
+ 348188 words of memory out of 5000000
  18660 multiletter control sequences out of 15000+600000
  3940 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,2n,48p,493b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpbilo1j7c/tmp_ffsxjq2.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy7cjjr37/tmp0hfg3qrs.latex:
 30:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/brillouin-function/
 brillouin-function
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy8c0c17i/tmplkogkrb3.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp98mk7vv_/tmpkd1net4f.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy8c0c17i/tmplkogkrb3.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp98mk7vv_/tmpkd1net4f.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -13343,35 +13343,35 @@ File: pgflibraryarrows.meta.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfarrowwidth=\dimen162
 \pgfarrowlinewidth=\dimen163
 )
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy8c0c17i/tmplkogkrb3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp98mk7vv_/tmpkd1net4f.latex:
 6: Undefined control sequence.
 l.6 \directlua
               { 
 Here is how much of TeX's memory you used:
  12106 strings out of 492616
  248613 string characters out of 6129482
- 288892 words of memory out of 5000000
+ 288890 words of memory out of 5000000
  15831 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,0n,67p,479b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpy8c0c17i/tmplkogkrb3.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp98mk7vv_/tmpkd1net4f.latex:
 6:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/polarization-state-of-light/
 polarization-state-of-light
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3bekxm4w/tmph20r62iq.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpq7coc7f0/tmpntfbctb9.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3bekxm4w/tmph20r62iq.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpq7coc7f0/tmpntfbctb9.latex
 LaTeX2e <2018-12-01>
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3bekxm4w/tmph20r62iq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpq7coc7f0/tmpntfbctb9.latex:
 1: LaTeX Error: Environment tikzpicture undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -13389,19 +13389,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,4p,112b,16s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3bekxm4w/tmph20r62iq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpq7coc7f0/tmpntfbctb9.latex:
 1:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/series-and-parallel-graph-diagrams/
 series-and-parallel-graph-diagrams
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7zuxop5w/tmp1oukkjtg.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmputbgnvsa/tmpe5j85744.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7zuxop5w/tmp1oukkjtg.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmputbgnvsa/tmpe5j85744.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -13734,8 +13734,8 @@ File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryfit.code.tex
 File: tikzlibraryfit.code.tex 2019/04/04 v3.1.2 (3.1.2)
-) (./tmp1oukkjtg.aux)
-\openout1 = `tmp1oukkjtg.aux'.
+) (./tmpe5j85744.aux)
+\openout1 = `tmpe5j85744.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -13766,7 +13766,7 @@ ontext/base/mkii/supp-pdf.mkii
 )
 \c@parlevel=\count115
 \c@serlevel=\count116
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7zuxop5w/tmp1oukkjtg.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmputbgnvsa/tmpe5j85744.latex:
 168: TeX capacity exceeded, sorry [grouping levels=255].
 \pgfutil@g@addto@macro #1#2->\begingroup 
                                          \pgfutil@toks@ \expandafter {#1#2}\...
@@ -13775,25 +13775,25 @@ l.168 {\parblock{\block{}}{\block{}}}
 Here is how much of TeX's memory you used:
  11731 strings out of 492616
  242425 string characters out of 6129482
- 354488 words of memory out of 5000000
+ 354486 words of memory out of 5000000
  15492 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,34n,73p,487b,4953s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7zuxop5w/tmp1oukkjtg.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmputbgnvsa/tmpe5j85744.latex:
 168:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/seven-segment-display/
 seven-segment-display
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi21b1g7i/tmp49hbyt2t.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1tcz15cc/tmpdnprifhj.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi21b1g7i/tmp49hbyt2t.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1tcz15cc/tmpdnprifhj.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/minimal.cls
 Document Class: minimal 2001/05/25 Standard LaTeX minimal class
@@ -13805,7 +13805,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi21b1g7i/tmp49hbyt2t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1tcz15cc/tmpdnprifhj.latex:
 8: Emergency stop.
 <read *> 
          
@@ -13820,19 +13820,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  14i,0n,8p,199b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpi21b1g7i/tmp49hbyt2t.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1tcz15cc/tmpdnprifhj.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/shear-torsion/
 shear-torsion
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxymfy_aa/tmppiqge0sd.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpiy_yp7rr/tmpd96af3dq.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxymfy_aa/tmppiqge0sd.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpiy_yp7rr/tmpd96af3dq.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -13890,7 +13890,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxymfy_aa/tmppiqge0sd.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpiy_yp7rr/tmpd96af3dq.latex:
 5: Emergency stop.
 <read *> 
          
@@ -13905,23 +13905,23 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,0n,56p,286b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxymfy_aa/tmppiqge0sd.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpiy_yp7rr/tmpd96af3dq.latex:
 5:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/eratosthenes-sieve/
 eratosthenes-sieve
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphkvoq6ea/tmp_261kfmo.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgs37jaz1/tmprsupr9ve.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphkvoq6ea/tmp_261kfmo.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgs37jaz1/tmprsupr9ve.latex
 LaTeX2e <2018-12-01>
 )
 ! Emergency stop.
-<*> ...4ljlc0000gn/T/tmphkvoq6ea/tmp_261kfmo.latex
+<*> ...4ljlc0000gn/T/tmpgs37jaz1/tmprsupr9ve.latex
                                                    
 Here is how much of TeX's memory you used:
  8 strings out of 492616
@@ -13936,14 +13936,14 @@ Here is how much of TeX's memory you used:
 
 http://www.texample.net//tikz/examples/sign-diagram/
 sign-diagram
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb9c81kay/tmp4hqlriwx.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm3h4icml/tmpfbv_ljut.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb9c81kay/tmp4hqlriwx.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm3h4icml/tmpfbv_ljut.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -14317,8 +14317,8 @@ File: pgflibrarypatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \c@tkz@cnt@pair=\count119
 \c@tkz@cnt@impair=\count120
 \c@tkz@cnt@aw=\count121
-) (./tmp4hqlriwx.aux)
-\openout1 = `tmp4hqlriwx.aux'.
+) (./tmpfbv_ljut.aux)
+\openout1 = `tmpfbv_ljut.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -14346,32 +14346,32 @@ LaTeX Font Info:    ... okay on input line 7.
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks30
 ) ABD: EveryShipout initializing macros
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb9c81kay/tmp4hqlriwx.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm3h4icml/tmpfbv_ljut.latex:
 11: Undefined control sequence.
 l.11   \sgnvar
               [couleur,% 
 Here is how much of TeX's memory you used:
  12248 strings out of 492616
  255898 string characters out of 6129482
- 298685 words of memory out of 5000000
+ 298683 words of memory out of 5000000
  15982 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,1n,63p,479b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb9c81kay/tmp4hqlriwx.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpm3h4icml/tmpfbv_ljut.latex:
 11:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/signal-flow-building-blocks/
 signal-flow-building-blocks
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpftvuqo0l/tmppxhobsd5.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwmua9m_z/tmp5xscp02a.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpftvuqo0l/tmppxhobsd5.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwmua9m_z/tmp5xscp02a.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -14397,7 +14397,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpftvuqo0l/tmppxhobsd5.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwmua9m_z/tmp5xscp02a.latex:
 8: Emergency stop.
 <read *> 
          
@@ -14412,19 +14412,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  23i,0n,17p,212b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpftvuqo0l/tmppxhobsd5.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpwmua9m_z/tmp5xscp02a.latex:
 8:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/simple-circuit-schematics-symbols/
 simple-circuit-schematics-symbols
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpkof7kyfb/tmp_t289zyq.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp36enbihs/tmpl2lbbftk.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpkof7kyfb/tmp_t289zyq.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp36enbihs/tmpl2lbbftk.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -14788,7 +14788,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpkof7kyfb/tmp_t289zyq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp36enbihs/tmpl2lbbftk.latex:
 7: Emergency stop.
 <read *> 
          
@@ -14797,25 +14797,25 @@ l.7 ^^M
 Here is how much of TeX's memory you used:
  11944 strings out of 492616
  246232 string characters out of 6129482
- 287882 words of memory out of 5000000
+ 287880 words of memory out of 5000000
  15707 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,474b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpkof7kyfb/tmp_t289zyq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp36enbihs/tmpl2lbbftk.latex:
 7:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/spherical-polar-pots-with-3dplot/
 spherical-polar-pots-with-3dplot
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpmsiqw5s3/tmpxa1j89d8.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpndzws7ww/tmpdgge882x.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpmsiqw5s3/tmpxa1j89d8.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpndzws7ww/tmpdgge882x.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/minimal.cls
 Document Class: minimal 2001/05/25 Standard LaTeX minimal class
@@ -15134,7 +15134,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpmsiqw5s3/tmpxa1j89d8.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpndzws7ww/tmpdgge882x.latex:
 6: Emergency stop.
 <read *> 
          
@@ -15143,25 +15143,25 @@ l.6 ^^M
 Here is how much of TeX's memory you used:
  10535 strings out of 492616
  222439 string characters out of 6129482
- 254838 words of memory out of 5000000
+ 254836 words of memory out of 5000000
  14312 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,500b,103s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpmsiqw5s3/tmpxa1j89d8.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpndzws7ww/tmpdgge882x.latex:
 6:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/tcp-state-machine/
 tcp-state-machine
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqrx6ag2u/tmpuykqagou.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpk4iqyagc/tmpjq4fflcl.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpqrx6ag2u/tmpuykqagou.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpk4iqyagc/tmpjq4fflcl.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -15506,8 +15506,8 @@ Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
 \pr@snippet=\count109
 \pr@box=\box40
 \pr@output=\toks27
-) (./tmpuykqagou.aux)
-\openout1 = `tmpuykqagou.aux'.
+) (./tmpjq4fflcl.aux)
+\openout1 = `tmpjq4fflcl.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -15571,11 +15571,11 @@ Overfull \hbox (102.00061pt too wide) in paragraph at lines 164--165
 [][] 
  []
 
-(./tmpuykqagou.aux) ) 
+(./tmpjq4fflcl.aux) ) 
 Here is how much of TeX's memory you used:
  11589 strings out of 492616
  241265 string characters out of 6129482
- 281242 words of memory out of 5000000
+ 281240 words of memory out of 5000000
  15330 multiletter control sequences out of 15000+600000
  4902 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -15591,14 +15591,14 @@ PDF statistics:
 
 http://www.texample.net//tikz/examples/the-3dplot-package/
 the-3dplot-package
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr9vohcek/tmp0f9_obvz.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp2x37x8su/tmpd9_8tmow.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr9vohcek/tmp0f9_obvz.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp2x37x8su/tmpd9_8tmow.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -15931,7 +15931,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr9vohcek/tmp0f9_obvz.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp2x37x8su/tmpd9_8tmow.latex:
 34: Emergency stop.
 <read *> 
          
@@ -15940,25 +15940,25 @@ l.34 ^^M
 Here is how much of TeX's memory you used:
  10708 strings out of 492616
  224175 string characters out of 6129482
- 257479 words of memory out of 5000000
+ 257477 words of memory out of 5000000
  14481 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,455b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpr9vohcek/tmp0f9_obvz.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp2x37x8su/tmpd9_8tmow.latex:
 34:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/tkz-2d/
 tkz-2d
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_qgh48_d/tmpj0o5_we9.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7xc2ppjs/tmpex7fl3e1.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_qgh48_d/tmpj0o5_we9.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7xc2ppjs/tmpex7fl3e1.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -16308,7 +16308,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_qgh48_d/tmpj0o5_we9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7xc2ppjs/tmpex7fl3e1.latex:
 9: Emergency stop.
 <read *> 
          
@@ -16317,25 +16317,25 @@ l.9 \usepackage
 Here is how much of TeX's memory you used:
  11274 strings out of 492616
  240113 string characters out of 6129482
- 268913 words of memory out of 5000000
+ 268911 words of memory out of 5000000
  15035 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,56p,479b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp_qgh48_d/tmpj0o5_we9.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp7xc2ppjs/tmpex7fl3e1.latex:
 9:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/tkz-berge/
 tkz-berge
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnga9ommp/tmp4oedh7re.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnqzij1t4/tmphbv2_vkt.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnga9ommp/tmp4oedh7re.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnqzij1t4/tmphbv2_vkt.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -16740,8 +16740,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \c@lotdepth=\count130
 \sf@top=\skip47
 \sf@bottom=\skip48
-) (./tmp4oedh7re.aux)
-\openout1 = `tmp4oedh7re.aux'.
+) (./tmphbv2_vkt.aux)
+\openout1 = `tmphbv2_vkt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -16790,7 +16790,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnga9ommp/tmp4oedh7re.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnqzij1t4/tmphbv2_vkt.latex:
 40: Package pgf Error: No shape named K is known.
 
 See the pgf package documentation for explanation.
@@ -16802,27 +16802,27 @@ l.40 }
 Here is how much of TeX's memory you used:
  13920 strings out of 492616
  282919 string characters out of 6129482
- 334618 words of memory out of 5000000
+ 334616 words of memory out of 5000000
  17635 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,10n,96p,481b,1047s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnga9ommp/tmp4oedh7re.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpnqzij1t4/tmphbv2_vkt.latex:
 40:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/pgf-version-2/
 pgf-version-2
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1ji_ffnf/tmpmda97zmp.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp63ptwz1z/tmp6n01mw9v.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1ji_ffnf/tmpmda97zmp.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp63ptwz1z/tmp6n01mw9v.latex
 LaTeX2e <2018-12-01>
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1ji_ffnf/tmpmda97zmp.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp63ptwz1z/tmp6n01mw9v.latex:
 2: Undefined control sequence.
 l.2 \usetikzlibrary
                    {decorations.pathmorphing} 
@@ -16835,19 +16835,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  5i,0n,1p,122b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1ji_ffnf/tmpmda97zmp.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp63ptwz1z/tmp6n01mw9v.latex:
 2:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/torn-paper/
 torn-paper
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpc8ya8md6/tmp824i0vgz.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2utqy0d/tmppl2lanm4.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpc8ya8md6/tmp824i0vgz.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2utqy0d/tmppl2lanm4.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -17422,8 +17422,8 @@ File: pgflibraryshadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \c@mathseed=\count271
 \pgf@layerbox@background=\box58
 \pgf@layerboxsaved@background=\box59
-(./tmp824i0vgz.aux)
-\openout1 = `tmp824i0vgz.aux'.
+(./tmppl2lanm4.aux)
+\openout1 = `tmppl2lanm4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
@@ -17491,7 +17491,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 87.
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpc8ya8md6/tmp824i0vgz.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2utqy0d/tmppl2lanm4.latex:
 87: Package pgfkeys Error: Choice 'bilinear interpolation' unknown in choice ke
 y '/tikz/shade'. I am going to ignore this key.
 
@@ -17510,19 +17510,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,7n,94p,508b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpc8ya8md6/tmp824i0vgz.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpz2utqy0d/tmppl2lanm4.latex:
 87:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/transparent-png-overlay/
 transparent-png-overlay
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4qgzd6j0/tmpoh7pwkow.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3u3fa8ur/tmpnrvytm_o.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4qgzd6j0/tmpoh7pwkow.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3u3fa8ur/tmpnrvytm_o.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -17900,8 +17900,8 @@ File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
-))) (./tmpoh7pwkow.aux)
-\openout1 = `tmpoh7pwkow.aux'.
+))) (./tmpnrvytm_o.aux)
+\openout1 = `tmpnrvytm_o.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -17931,7 +17931,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks33
 )
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4qgzd6j0/tmpoh7pwkow.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3u3fa8ur/tmpnrvytm_o.latex:
 59: LaTeX Error: File `img/rblend' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -17943,25 +17943,25 @@ l.59 ...aperwidth,height=\paperheight]{img/rblend}
 Here is how much of TeX's memory you used:
  11649 strings out of 492616
  235887 string characters out of 6129482
- 275168 words of memory out of 5000000
+ 275166 words of memory out of 5000000
  15384 multiletter control sequences out of 15000+600000
  4094 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,15n,52p,455b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4qgzd6j0/tmpoh7pwkow.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp3u3fa8ur/tmpnrvytm_o.latex:
 59:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/transparent-shadows/
 transparent-shadows
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgglei51q/tmp15_ld2d7.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoh6dh1ev/tmpryusnjww.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgglei51q/tmp15_ld2d7.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoh6dh1ev/tmpryusnjww.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -18310,8 +18310,8 @@ File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \boxroundness=\skip46
 \tmpa=\skip47
 \shadowblockbox=\box40
-(./tmp15_ld2d7.aux)
-\openout1 = `tmp15_ld2d7.aux'.
+(./tmpryusnjww.aux)
+\openout1 = `tmpryusnjww.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -18345,7 +18345,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 57.
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgglei51q/tmp15_ld2d7.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoh6dh1ev/tmpryusnjww.latex:
 57: Undefined control sequence.
 <argument> \shadowsize * \real 
                                {\x }
@@ -18354,25 +18354,25 @@ l.57 \end{shadowblock}
 Here is how much of TeX's memory you used:
  11103 strings out of 492616
  229607 string characters out of 6129482
- 262462 words of memory out of 5000000
+ 262460 words of memory out of 5000000
  14866 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,3n,48p,455b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpgglei51q/tmp15_ld2d7.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpoh6dh1ev/tmpryusnjww.latex:
 57:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/transversal-loads/
 transversal-loads
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpime0jcje/tmpis7ife9z.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4y0zex7a/tmp76wpa9ww.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpime0jcje/tmpis7ife9z.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4y0zex7a/tmp76wpa9ww.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
@@ -18657,7 +18657,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpime0jcje/tmpis7ife9z.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4y0zex7a/tmp76wpa9ww.latex:
 6: Emergency stop.
 <read *> 
          
@@ -18672,27 +18672,19 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  40i,0n,63p,299b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpime0jcje/tmpis7ife9z.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp4y0zex7a/tmp76wpa9ww.latex:
 6:  ==> Fatal error occurred, no output PDF file produced!
 
-http://www.texample.net//tikz/examples/coin-flipping/
-coin-flipping
-http://www.texample.net//tikz/examples/truncated-cone/
-truncated-cone
-http://www.texample.net//tikz/examples/turing-machine-2/
-turing-machine-2
-http://www.texample.net//tikz/examples/turing-machine/
-turing-machine
 http://www.texample.net//tikz/examples/pgf-umlsd/
 pgf-umlsd
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp26hgvh4s/tmp9mg3tisc.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpovrgybop/tmpvj9v64es.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp26hgvh4s/tmp9mg3tisc.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpovrgybop/tmpvj9v64es.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -19051,8 +19043,8 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \c@callevel=\count113
 \c@callselflevel=\count114
 \c@blocklevel=\count115
-) (./tmp9mg3tisc.aux)
-\openout1 = `tmp9mg3tisc.aux'.
+) (./tmpvj9v64es.aux)
+\openout1 = `tmpvj9v64es.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -19144,7 +19136,7 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp26hgvh4s/tmp9mg3tisc.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpovrgybop/tmpvj9v64es.latex:
 23: LaTeX Error: Environment sdloop undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -19156,25 +19148,25 @@ l.23     \begin{sdloop}
 Here is how much of TeX's memory you used:
  11975 strings out of 492616
  252131 string characters out of 6129482
- 280636 words of memory out of 5000000
+ 280634 words of memory out of 5000000
  15718 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,81p,477b,935s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp26hgvh4s/tmp9mg3tisc.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpovrgybop/tmpvj9v64es.latex:
 23:  ==> Fatal error occurred, no output PDF file produced!
 
 http://www.texample.net//tikz/examples/ulam-spiral/
 ulam-spiral
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpjm6jkbil/tmpxfaicnhq.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxidfynrr/tmpmbcsm2yl.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpjm6jkbil/tmpxfaicnhq.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxidfynrr/tmpmbcsm2yl.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -19512,8 +19504,8 @@ File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \c@prim@n=\count113
 \c@prim@d=\count114
 \c@prim@b=\count115
-(./tmpxfaicnhq.aux)
-\openout1 = `tmpxfaicnhq.aux'.
+(./tmpmbcsm2yl.aux)
+\openout1 = `tmpmbcsm2yl.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
@@ -19543,7 +19535,7 @@ ontext/base/mkii/supp-pdf.mkii
 \everyMPtoPDFconversion=\toks28
 )
 Missing character: There is no / in font nullfont!
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpjm6jkbil/tmpxfaicnhq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxidfynrr/tmpmbcsm2yl.latex:
 108: Missing number, treated as zero.
 <to be read again> 
                    \relax 
@@ -19552,39 +19544,25 @@ l.108   \ulam{41}{113}
 Here is how much of TeX's memory you used:
  11109 strings out of 492616
  229398 string characters out of 6129482
- 261294 words of memory out of 5000000
+ 261292 words of memory out of 5000000
  14869 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,1n,48p,472b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpjm6jkbil/tmpxfaicnhq.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpxidfynrr/tmpmbcsm2yl.latex:
 108:  ==> Fatal error occurred, no output PDF file produced!
 
-http://www.texample.net//tikz/examples/unit-circle/
-unit-circle
-http://www.texample.net//tikz/examples/contours-grids/
-contours-grids
-http://www.texample.net//tikz/examples/valentine-heart/
-valentine-heart
-http://www.texample.net//tikz/examples/venn-diagram/
-venn-diagram
-http://www.texample.net//tikz/examples/venn-diagram-with-magnifier/
-venn-diagram-with-magnifier
-http://www.texample.net//tikz/examples/venn-diagram-blended/
-venn-diagram-blended
-http://www.texample.net//tikz/examples/complement/
-complement
 http://www.texample.net//tikz/examples/weather-stations-data/
 weather-stations-data
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphxqvoii8/tmptz6vtr20.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv9bxc86g/tmpc395_epy.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphxqvoii8/tmptz6vtr20.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv9bxc86g/tmpc395_epy.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -19945,8 +19923,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@thisrulewidth=\dimen165
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-) (./tmptz6vtr20.aux)
-\openout1 = `tmptz6vtr20.aux'.
+) (./tmpc395_epy.aux)
+\openout1 = `tmpc395_epy.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -19982,7 +19960,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: txt)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphxqvoii8/tmptz6vtr20.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv9bxc86g/tmpc395_epy.latex:
 11: Emergency stop.
 <read *> 
          
@@ -19991,33 +19969,25 @@ l.11 \input{data/weatherdata.txt}
 Here is how much of TeX's memory you used:
  11166 strings out of 492616
  230517 string characters out of 6129482
- 262220 words of memory out of 5000000
+ 262218 words of memory out of 5000000
  14914 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,475b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmphxqvoii8/tmptz6vtr20.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpv9bxc86g/tmpc395_epy.latex:
 11:  ==> Fatal error occurred, no output PDF file produced!
 
-http://www.texample.net//tikz/examples/windshield-wiper/
-windshield-wiper
-http://www.texample.net//tikz/examples/work-breakdown-structure/
-work-breakdown-structure
-http://www.texample.net//tikz/examples/yellow-notes/
-yellow-notes
-http://www.texample.net//tikz/examples/yin-and-yang/
-yin-and-yang
 http://www.texample.net//tikz/examples/eps2pgf/
 eps2pgf
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprkdafcz6/tmpew2na20s.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb4hqk9ir/tmpy8r1fr97.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprkdafcz6/tmpew2na20s.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb4hqk9ir/tmpy8r1fr97.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -20291,8 +20261,8 @@ Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
 Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
-)) (./tmpew2na20s.aux)
-\openout1 = `tmpew2na20s.aux'.
+)) (./tmpy8r1fr97.aux)
+\openout1 = `tmpy8r1fr97.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -20328,7 +20298,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: pgf)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprkdafcz6/tmpew2na20s.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb4hqk9ir/tmpy8r1fr97.latex:
 4: Emergency stop.
 <read *> 
          
@@ -20337,27 +20307,25 @@ l.4     \input{tiger.pgf}
 Here is how much of TeX's memory you used:
  8604 strings out of 492616
  171337 string characters out of 6129482
- 208809 words of memory out of 5000000
+ 208807 words of memory out of 5000000
  12406 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,0n,45p,470b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmprkdafcz6/tmpew2na20s.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpb4hqk9ir/tmpy8r1fr97.latex:
 4:  ==> Fatal error occurred, no output PDF file produced!
 
-http://www.texample.net//tikz/examples/tikzdevice-demo/
-tikzdevice-demo
 http://www.texample.net//tikz/examples/tkz-plot2d/
 tkz-plot2d
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  4 JUN 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.4)  5 JUN 2019 00:43
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfuu732b4/tmp9_4aq14b.late
+**/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1oot3d45/tmpg41wyy3x.late
 x
 
-(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfuu732b4/tmp9_4aq14b.latex
+(/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1oot3d45/tmpg41wyy3x.latex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -20694,7 +20662,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfuu732b4/tmp9_4aq14b.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1oot3d45/tmpg41wyy3x.latex:
 7: Emergency stop.
 <read *> 
          
@@ -20703,12 +20671,12 @@ l.7 \usetikzlibrary
 Here is how much of TeX's memory you used:
  10782 strings out of 492616
  225393 string characters out of 6129482
- 261407 words of memory out of 5000000
+ 261405 words of memory out of 5000000
  14551 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,0n,48p,479b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmpfuu732b4/tmp9_4aq14b.latex:
+/var/folders/b2/7ryckc2j43xc6g759m24ljlc0000gn/T/tmp1oot3d45/tmpg41wyy3x.latex:
 7:  ==> Fatal error occurred, no output PDF file produced!
 

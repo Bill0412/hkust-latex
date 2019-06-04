@@ -2,12 +2,14 @@
 <html>
 <head>
     <title>
-        LaTex
+        LaTex - {{title}}
     </title>
     <body>
-        <h1>LaTex Crawler & Compiler </h1>
+        <h1>LaTex - {{title}} </h1>
+
             {% for item in items %}
-            <img src="../data/latex/{{item}}/{{item}}.png"/>
+
+            <img src="static/{{item}}.png" width="400" alt=""/>
             {% endfor %}
 
     </body>

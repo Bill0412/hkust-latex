@@ -1,7 +1,0 @@
-% Decorating a node shape
-\usetikzlibrary{decorations.pathmorphing}
-...
-\begin{tikzpicture}
-    \node [text width=2cm, decorate, decoration=saw, fill=blue!20,draw,circle]
-        {Node shapes can be decorated!};
-\end{tikzpicture}

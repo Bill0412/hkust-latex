@@ -47,7 +47,8 @@ class Crawler:
         for tag in tags:
             if tag not in tags_dict:
                 tags_dict[tag] = list()
-            tags_dict[tag].append(slugname)
+            if slugname not in tags_dict[tag]:
+                tags_dict[tag].append(slugname)
         with open('data/tags.json', 'w') as out:
             json.dump(tags_dict, out)
             out.close()
