@@ -33,10 +33,13 @@ class Crawler:
         category = soup.find('div', class_='tag-list').select('ul:nth-of-type(2)')[0].select('a')
         print(category)
 
+        # insert comment part
+
         self._save_latex(latex_doc, filename)
 
     def block_test(self):
-        crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/city/', 'city')
+        # crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/city/', 'city')
+        crawler.crawl_single_page_latex('http://www.texample.net/tikz/examples/parallelepiped/', 'parallelepiped')
 
 if __name__ == '__main__':
    crawler = Crawler()

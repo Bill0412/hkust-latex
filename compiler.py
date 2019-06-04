@@ -2,6 +2,8 @@
 
 
 from latex import build_pdf
+# TODO:
+# 1. encapsulate into Compiler class
 
 pdf = build_pdf(open('data/city.latex'))
 
