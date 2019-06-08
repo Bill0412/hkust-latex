@@ -87,5 +87,5 @@ we should consider our recommendation to be wrong.
 
 
 
-## Liscence
+## Licence
 MIT
